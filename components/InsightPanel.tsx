@@ -9,6 +9,7 @@ interface Message {
   role: 'user' | 'assistant';
   content: string;
   hidden?: boolean; // don't show user bubble for auto/topic messages
+  notes?: string[]; // v4 数据集解读的来源与提示
 }
 
 interface SelectedSiHua {
@@ -24,111 +25,31 @@ interface InsightPanelProps {
 }
 
 const TOPICS = [
-  { key: 'overview',     label: 'Mệnh cách' },
+  { key: 'overview',    label: 'Mệnh cách' },
+  { key: 'personality', label: 'Tính cách' },
   { key: 'love',        label: 'Tình cảm' },
   { key: 'career',      label: 'Sự nghiệp' },
   { key: 'wealth',      label: 'Tài vận' },
   { key: 'health',      label: 'Sức khỏe' },
-  { key: 'personality', label: 'Tính cách' },
+  { key: 'family',      label: 'Huynh đệ' },
+  { key: 'children',    label: 'Con cái' },
+  { key: 'move',        label: 'Thiên di' },
+  { key: 'friends',     label: 'Giao hữu' },
+  { key: 'home',        label: 'Điền trạch' },
+  { key: 'spirit',      label: 'Phúc đức' },
+  { key: 'parents',     label: 'Cha mẹ' },
 ] as const;
 
-const TOPIC_PROMPTS: Record<string, string> = {
-  overview: `Hãy tạo bản tổng quan mệnh cách, trình bày theo cấu trúc sau:
-
-**【Định tính mệnh cách】**
-Dùng một câu khái quát Cách Cục cốt lõi của lá số này và khí chất của Mệnh Chủ.
-
-**【Luận giải Chính Tinh】**
-Đặc chất cốt lõi của Chính Tinh cung Mệnh, trích dẫn nguyên lời hoặc quan điểm của Nghê Hải Hạ.
-
-**【Tam Phương Tứ Chính】**
-Phân tích sự liên động của ba cung Tài Bạch, Quan Lộc, Thiên Di và Cách Cục tổng thể.
-
-**【Đại Hạn hiện tại】**
-Hướng vận thế của Đại Hạn hiện tại và những việc đáng chú ý nhất.
-
-**【Ưu thế và lưu ý】**
-Ưu thế thiên phú của lá số, cùng những rủi ro hoặc bài học cần lưu ý.`,
-
-  love: `Hãy phân tích sâu vận tình cảm, hôn nhân, trình bày theo cấu trúc sau:
-
-**【Cách Cục tình cảm】**
-Dùng một câu định tính mệnh cách về tình cảm.
-
-**【Phân tích cung Phu Thê】**
-Chính Tinh, Tứ Hóa của cung Phu Thê, cùng luận giải cụ thể theo hệ thống Nghê Hải Hạ.
-
-**【Liên động Tam Phương】**
-Ảnh hưởng của các cung vị liên quan đến tình cảm.
-
-**【Vận tình cảm Đại Hạn hiện tại】**
-Hướng đi tình cảm trong 10 năm hiện tại và các mốc then chốt.
-
-**【Lời khuyên thực tế】**
-Lời khuyên tình cảm cụ thể, khả thi.`,
-
-  career: `Hãy phân tích sâu vận sự nghiệp, trình bày theo cấu trúc sau:
-
-**【Cách Cục sự nghiệp】**
-Dùng một câu định tính mệnh cách về sự nghiệp, nên đi làm hay nên khởi nghiệp.
-
-**【Phân tích cung Quan Lộc】**
-Chính Tinh, Tứ Hóa của cung Quan Lộc, cùng nhận định của Thầy Nghê về cấu hình này.
-
-**【Liên động cung Tài Bạch】**
-Quan hệ giữa tài vận và sự nghiệp, phân tích nguồn tài.
-
-**【Vận sự nghiệp Đại Hạn hiện tại】**
-Hướng đi sự nghiệp trong 10 năm hiện tại.
-
-**【Lời khuyên thực tế】**
-Hướng đi, ngành nghề và chiến lược phù hợp.`,
-
-  wealth: `Hãy phân tích sâu tài vận, trình bày theo cấu trúc sau:
-
-**【Cách Cục tài vận】**
-Dùng một câu định tính mô hình tài vận, là tài chủ động hay tài thụ động.
-
-**【Phân tích cung Tài Bạch】**
-Chính Tinh, Tứ Hóa của cung Tài Bạch, nguồn gốc của cải và mô hình lưu chuyển.
-
-**【Cung Điền Trạch (tài khố)】**
-Phân tích khả năng tích lũy và vận bất động sản.
-
-**【Tài vận Đại Hạn hiện tại】**
-Hướng đi tài vận hiện tại và những điều cần chú ý.
-
-**【Lời khuyên quản lý tài chính】**
-Lời khuyên tài chính cụ thể.`,
-
-  health: `Hãy phân tích vận sức khỏe, trình bày theo cấu trúc sau:
-
-**【Chính Tinh cung Tật Ách】**
-Các sao của cung Tật Ách và ý nghĩa về sức khỏe.
-
-**【Rủi ro chính】**
-Kết hợp lý thuyết Tý Ngọ Lưu Chú của Nghê Hải Hạ, phân tích các nguy cơ sức khỏe chính và những bộ phận cần chú ý.
-
-**【Xu hướng sức khỏe theo Đại Hạn】**
-Xu hướng sức khỏe hiện tại và các giai đoạn then chốt.
-
-**【Lời khuyên phòng ngừa】**
-Những điều cần chú ý cụ thể và hướng dưỡng sinh.`,
-
-  personality: `Hãy phân tích sâu đặc điểm tính cách, trình bày theo cấu trúc sau:
-
-**【Tính cách theo Chính Tinh cung Mệnh】**
-Đặc điểm tính cách cốt lõi của Chính Tinh cung Mệnh, trích dẫn nguyên lời của Thầy Nghê.
-
-**【Tổng hợp tính cách Tam Phương】**
-Ảnh hưởng của ba cung Tài Bạch, Quan Lộc, Thiên Di đến tính cách, khắc họa toàn cảnh.
-
-**【Mô hình quan hệ giao tiếp】**
-Cách tương tác với người khác, phong cách đối nhân xử thế.
-
-**【Ưu thế và bài học cuộc đời】**
-Ưu thế thiên phú, cùng những bài học cuộc đời cần đối mặt.`,
+// 宫位 → v4 数据集主题（实盘宫名不带「宫」字，命宫除外）
+const PALACE_TOPIC: Record<string, string> = {
+  '命宫': 'overview', '兄弟': 'family', '夫妻': 'love', '子女': 'children', '财帛': 'wealth', '疾厄': 'health',
+  '迁移': 'move', '仆役': 'friends', '交友': 'friends', '官禄': 'career', '田宅': 'home', '福德': 'spirit', '父母': 'parents',
 };
+
+const FAMILY_TOPICS = new Set(['family', 'children', 'parents']);
+const READING_SOURCE = 'Nguồn: bộ dữ liệu v4.0 của Renhuai123/ziwei-doushu (CC BY 4.0). Các trích dẫn Thiên Kỷ không thuộc giấy phép này.';
+const FAMILY_NOTE = 'Tử Vi Đẩu Số có giới hạn khi luận về quan hệ gia đình; phần này chỉ để tham khảo.';
+const UNTRANSLATED_NOTE = 'Phần chưa có bản dịch đang hiển thị nguyên văn tiếng Trung.';
 
 const PALACE_ROLES: Record<string, string> = {
   '命宫':   'bản thân, tính cách, Cách Cục tiên thiên',
@@ -210,13 +131,20 @@ export default function InsightPanel({ chart, selectedPalace, selectedSiHua }: I
   useEffect(() => {
     if (autoLoaded.current) return;
     autoLoaded.current = true;
-    sendMessage(TOPIC_PROMPTS.overview, true);
+    loadReading('overview');
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Inject palace analysis when palace selected
   useEffect(() => {
     if (!selectedPalace || selectedPalace.branch === lastPalaceBranch.current) return;
     lastPalaceBranch.current = selectedPalace.branch;
+
+    const palaceTopic = PALACE_TOPIC[selectedPalace.name] ?? PALACE_TOPIC[selectedPalace.name.replace('宫', '')];
+    if (palaceTopic) {
+      setActiveTopic(palaceTopic);
+      loadReading(palaceTopic);
+      return;
+    }
 
     const majorStars = selectedPalace.stars.filter(s => s.type === 'major');
     const starDesc = majorStars.length > 0
@@ -340,10 +268,43 @@ Lời khuyên cụ thể, khả thi dựa trên Tứ Hóa này.`;
     streamResponse(apiMessages);
   };
 
+  // 主题解读读 v4 数据集，不需要 AI；自由提问仍走 /api/interpret
+  const loadReading = async (topicKey: string) => {
+    if (loadingRef.current) return;
+    loadingRef.current = true;
+    setLoading(true);
+    const { year, month, day, hour, gender } = chart.birthInfo;
+    const query = new URLSearchParams({
+      y: String(year), m: String(month), d: String(day), h: String(hour), g: gender, topic: topicKey,
+    });
+    let fallback: string | null = null;
+    try {
+      const res = await fetch(`/api/reading?${query}`);
+      if (res.ok) {
+        const { text, paragraphs, translated } = await res.json();
+        const notes = [
+          ...(translated < paragraphs ? [UNTRANSLATED_NOTE] : []),
+          ...(FAMILY_TOPICS.has(topicKey) ? [FAMILY_NOTE] : []),
+          READING_SOURCE,
+        ];
+        setMessages(prev => [...prev, { role: 'assistant', content: text, notes }]);
+      } else if (res.status === 404 && (await res.json()).error === 'year-out-of-range') {
+        fallback = 'Bộ dữ liệu luận giải chỉ có năm sinh từ 1950 đến 2026.';
+      } else {
+        fallback = 'Chưa có cơ sở dữ liệu luận giải. Hãy chạy scripts/v4/build-db.py theo hướng dẫn trong README.';
+      }
+    } catch {
+      fallback = 'Không tải được luận giải, vui lòng thử lại.';
+    }
+    if (fallback) setMessages(prev => [...prev, { role: 'assistant', content: fallback! }]);
+    setLoading(false);
+    loadingRef.current = false;
+  };
+
   const handleTopicClick = (topicKey: string) => {
     if (loadingRef.current) return;
     setActiveTopic(topicKey);
-    sendMessage(TOPIC_PROMPTS[topicKey], true);
+    loadReading(topicKey);
   };
 
   const handleSend = () => {
@@ -355,7 +316,7 @@ Lời khuyên cụ thể, khả thi dựa trên Tứ Hóa này.`;
 
       {/* ── Topic buttons ── */}
       <div className="flex-shrink-0 px-2 pt-2.5 pb-2" style={{ borderBottom: '1px solid var(--t-border)' }}>
-        <div className="grid grid-cols-6 gap-1">
+        <div className="grid grid-cols-5 gap-1">
           {TOPICS.map(t => {
             const isActive = activeTopic === t.key;
             return (
@@ -430,6 +391,9 @@ Lời khuyên cụ thể, khả thi dựa trên Tứ Hóa này.`;
                   Luận giải mệnh lý
                 </div>
                 <AiContent text={msg.content} streaming={loading && isLastMsg} />
+                {msg.notes?.map(note => (
+                  <p key={note} className="mt-2 text-[9px] leading-snug" style={{ color: 'var(--t-faint)' }}>{note}</p>
+                ))}
               </motion.div>
             );
           })}

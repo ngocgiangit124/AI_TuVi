@@ -93,6 +93,16 @@ Download from [Releases → v4.0-13d](https://github.com/Renhuai123/ziwei-doushu
 - License: same as v3.0 — [CC BY 4.0](./DATASET-LICENSE), commercial use OK with attribution (except the quotations above).
 - A single all-years bundle `ziwei-interp-v4-all.tar` is also provided.
 
+### Using the dataset in the app
+
+The app reads v4.0 from a local SQLite file instead of decompressing it. After downloading the 77 `year-YYYY.jsonl.zst` files plus `MANIFEST.json` into `data/v4.0-13d/`:
+
+```bash
+python3 scripts/v4/build-db.py
+```
+
+This writes `data/v4.db`, which `/api/reading` and the 13 topic tabs on `/chart` read (Node 22.5+; set `ZIWEI_V4_DB` to use another path). The roughly 1 million distinct sentences reduce to about 12,000 templates once star and palace names become placeholders (`lib/v4/template.ts`). `npx tsx scripts/v4/export-templates.ts` writes them to `translations/v4/`, `scripts/v4/TRANSLATE.md` is the translation brief, and `npx tsx scripts/v4/import-templates.ts` validates translations and loads them into the database. A paragraph shows in Vietnamese once all its sentences have a translation.
+
 ## Sample dataset (518,400 charts)
 
 Download from [Releases](https://github.com/Renhuai123/ziwei-doushu/releases/tag/v3.0-samples) (3 parts, 5.5 GB in total). Each sample is generated from `birthInfo`:
