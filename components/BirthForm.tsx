@@ -5,7 +5,8 @@ import type { BirthInfo } from '@/lib/ziwei/types';
 import { SHICHEN } from '@/lib/ziwei/constants';
 import { useTheme } from '@/components/ThemeProvider';
 import { PROVINCES } from '@/lib/ziwei/cities';
-import { formToBirthInfo, calcTrueSolarBranch } from '@/lib/ziwei/share';
+import { VN_PROVINCES, isVietnamProvince } from '@/lib/ziwei/cities-vn';
+import { formToBirthInfo, calcTrueSolarBranch, formClockOffsetMinutes } from '@/lib/ziwei/share';
 import { viShichen } from '@/lib/i18n/vi';
 import { viCity, viProvince } from '@/lib/i18n/cities-vi';
 
@@ -39,6 +40,16 @@ function isValidDate(y: number, m: number, d: number): boolean {
   return date.getFullYear() === y && date.getMonth() === m - 1 && date.getDate() === d;
 }
 
+// 中国省份表里的「三沙」在越南版归入越南的黄沙、长沙群岛（见 VN_PROVINCES），不在海南下展示
+const CN_PROVINCES = PROVINCES.map(p => ({ ...p, cities: p.cities.filter(c => !c.name.startsWith('三沙')) }));
+const ALL_PROVINCES = [...VN_PROVINCES, ...CN_PROVINCES];
+
+const formatUtcOffset = (minutes: number): string => {
+  const h = Math.floor(minutes / 60);
+  const m = Math.round(minutes - h * 60);
+  return `UTC+${h}${m ? `:${String(m).padStart(2, '0')}` : ''}`;
+};
+
 export default function BirthForm({ onSubmit, loading, initialData, onFormSave, hideSubmit }: BirthFormProps) {
   const { theme } = useTheme();
   const isDark = theme === 'dark';
@@ -67,7 +78,7 @@ export default function BirthForm({ onSubmit, loading, initialData, onFormSave, 
   }, [form]);
 
   const cityList = useMemo(() => {
-    const prov = PROVINCES.find(p => p.name === form.province);
+    const prov = ALL_PROVINCES.find(p => p.name === form.province);
     return prov ? prov.cities : [];
   }, [form.province]);
 
@@ -77,10 +88,13 @@ export default function BirthForm({ onSubmit, loading, initialData, onFormSave, 
       parseInt(form.clockHour) || 0,
       parseInt(form.clockMinute) || 0,
       form.longitude,
+      formClockOffsetMinutes(form),
     );
-  }, [form.clockHour, form.clockMinute, form.longitude, form.unknownTime]);
+  }, [form.clockHour, form.clockMinute, form.longitude, form.unknownTime, form.province, form.city, form.year, form.month, form.day]);
 
-  const offsetMin = Math.round((form.longitude - 120) * 4);
+  const inVietnam = isVietnamProvince(form.province);
+  const clockOffset = formClockOffsetMinutes(form);
+  const offsetMin = Math.round(form.longitude * 4 - clockOffset);
   const shichenInfo = SHICHEN[branch];
 
   // ─── 校验逻辑 ───────────────────────────────────────────
@@ -120,13 +134,13 @@ export default function BirthForm({ onSubmit, loading, initialData, onFormSave, 
     : '';
 
   const handleProvince = (prov: string) => {
-    const provData = PROVINCES.find(p => p.name === prov);
+    const provData = ALL_PROVINCES.find(p => p.name === prov);
     const firstCity = provData?.cities[0];
     setForm({ ...form, province: prov, city: firstCity?.name || '', longitude: firstCity?.longitude ?? 120 });
   };
 
   const handleCity = (cityName: string) => {
-    const prov = PROVINCES.find(p => p.name === form.province);
+    const prov = ALL_PROVINCES.find(p => p.name === form.province);
     const cityData = prov?.cities.find(c => c.name === cityName);
     setForm({ ...form, city: cityName, longitude: cityData?.longitude ?? 120 });
   };
@@ -295,9 +309,16 @@ export default function BirthForm({ onSubmit, loading, initialData, onFormSave, 
             onBlur={e => { e.target.style.borderColor = inputBorder; }}
           >
             <option value="">Tỉnh / Thành phố</option>
-            {PROVINCES.map(p => (
-              <option key={p.name} value={p.name}>{viProvince(p.name)}</option>
-            ))}
+            <optgroup label="Việt Nam">
+              {VN_PROVINCES.map(p => (
+                <option key={p.name} value={p.name}>{p.name}</option>
+              ))}
+            </optgroup>
+            <optgroup label="Trung Quốc">
+              {CN_PROVINCES.map(p => (
+                <option key={p.name} value={p.name}>{viProvince(p.name)}</option>
+              ))}
+            </optgroup>
           </select>
           <select
             value={form.city}
@@ -322,7 +343,7 @@ export default function BirthForm({ onSubmit, loading, initialData, onFormSave, 
               exit={{ opacity: 0 }}
               style={{ fontSize: '10px', color: isDark ? 'rgba(180,210,235,0.85)' : 'rgba(100,70,10,0.5)', marginTop: '5px' }}
             >
-              {form.city ? viCity(form.city) : '(Vui lòng chọn thành phố)'} · Kinh độ {form.longitude.toFixed(1)}°E · Chênh lệch giờ {offsetMin > 0 ? '+' : ''}{offsetMin} phút
+              {form.city ? viCity(form.city) : '(Vui lòng chọn thành phố)'} · Kinh độ {form.longitude.toFixed(1)}°E · {inVietnam ? `Múi giờ khi đó ${formatUtcOffset(clockOffset)} · ` : ''}Chênh lệch giờ {offsetMin > 0 ? '+' : ''}{offsetMin} phút
             </motion.p>
           ) : (
             <motion.p
@@ -340,7 +361,7 @@ export default function BirthForm({ onSubmit, loading, initialData, onFormSave, 
 
       {/* ── 出生时间 ── */}
       <div style={{ marginBottom: '16px' }}>
-        <label style={{ display: 'block', fontSize: '11px', color: labelClr, marginBottom: '6px', letterSpacing: '0.05em' }}>Giờ sinh (giờ Bắc Kinh)</label>
+        <label style={{ display: 'block', fontSize: '11px', color: labelClr, marginBottom: '6px', letterSpacing: '0.05em' }}>Giờ sinh ({form.province && !inVietnam ? 'giờ Bắc Kinh' : 'giờ đồng hồ tại nơi sinh'})</label>
         <div style={{ borderRadius: '14px', padding: '12px', background: panelBg, border: `1px solid ${panelBorder}`, opacity: form.unknownTime ? 0.45 : 1, pointerEvents: form.unknownTime ? 'none' : 'auto', transition: 'opacity 0.2s' }}>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', marginBottom: '8px' }}>
             <select

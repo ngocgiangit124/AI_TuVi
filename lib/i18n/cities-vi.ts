@@ -103,7 +103,7 @@ const CITIES_VI: Record<string, string> = {
   '海口': 'Hải Khẩu', '三亚': 'Tam Á', '儋州': 'Đam Châu', '文昌': 'Văn Xương', '琼海': 'Quỳnh Hải', '万宁': 'Vạn Ninh',
   '陵水': 'Lăng Thủy', '乐东': 'Lạc Đông', '五指山': 'Ngũ Chỉ Sơn', '东方': 'Đông Phương', '定安': 'Định An', '屯昌': 'Truân Xương',
   '澄迈': 'Trừng Mại', '临高': 'Lâm Cao', '白沙': 'Bạch Sa', '昌江': 'Xương Giang', '保亭': 'Bảo Đình', '琼中': 'Quỳnh Trung',
-  '三沙（中国最南）': 'Tam Sa (cực nam Trung Quốc)',
+  '三沙（中国最南）': 'Quần đảo Hoàng Sa (Việt Nam)',
   // 四川
   '成都': 'Thành Đô', '绵阳': 'Miên Dương', '德阳': 'Đức Dương', '宜宾': 'Nghi Tân', '泸州': 'Lô Châu', '达州': 'Đạt Châu',
   '南充': 'Nam Sung', '乐山': 'Lạc Sơn', '自贡': 'Tự Cống', '攀枝花': 'Phàn Chi Hoa', '遂宁': 'Toại Ninh', '内江': 'Nội Giang',
