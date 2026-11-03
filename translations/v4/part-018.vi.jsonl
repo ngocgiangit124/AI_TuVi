@@ -4,7 +4,7 @@
 {"id": 9374, "vi": "Bạn nên lập trước một danh sách những việc mình không quản."}
 {"id": 9375, "vi": "▍**Bản cung · Phụ Mẫu**: {S1} ({B1}), {S2}"}
 {"id": 9376, "vi": "Bạn nên có ý thức để con được làm lại một đứa trẻ."}
-{"id": 9377, "vi": "{H1} (cản trở) thì giữa bạn với cha mẹ hoặc cấp trên dễ va chạm về ham muốn, lợi ích, cần giữ khoảng cách và ranh giới, đổi câu “quan hệ chúng ta thân lắm” thành “chúng ta cũng phải giữ quy tắc”, nghĩa là thân thì thân, quy tắc vẫn phải giữ."}
+{"id": 9377, "vi": "{H1} (trở ngại) thì giữa bạn với cha mẹ hoặc cấp trên dễ va chạm về ham muốn, lợi ích, cần giữ khoảng cách và ranh giới, đổi câu “quan hệ chúng ta thân lắm” thành “chúng ta cũng phải giữ quy tắc”, nghĩa là thân thì thân, quy tắc vẫn phải giữ."}
 {"id": 9378, "vi": "Khi khám sức khỏe, nhân tiện nghiêm túc trả lời một lần bảng câu hỏi về cảm xúc."}
 {"id": 9379, "vi": "Thể chất bạn khá tốt, bị bệnh cũng hồi phục nhanh."}
 {"id": 9380, "vi": "Lập gia đình quá sớm lại khiến việc dung hòa vất vả."}
@@ -19,14 +19,14 @@
 {"id": 9389, "vi": "Chưa đối chiếu, cách này thành hay không tạm để trống, không kết luận thay bạn."}
 {"id": 9390, "vi": "▍**Bản cung · Phu Thê**: {S1} {H1}, {S2} ({B1})"}
 {"id": 9391, "vi": "{S1} {H1} thì nguồn thu vượng, tiền từ sự nghiệp nhiều."}
-{"id": 9392, "vi": "▍**Giao Hữu tam hợp · Phụ Mẫu · Phụ Mẫu**: {S1} {H1}"}
-{"id": 9393, "vi": "▍**Tử Nữ tam hợp · Phụ Mẫu · Phụ Mẫu**: {S1} {H1}"}
-{"id": 9394, "vi": "▍**Tật Ách đối cung · Phụ Mẫu · Phụ Mẫu**: {S1} {H1}"}
+{"id": 9392, "vi": "▍**Tam Hợp của Giao Hữu · Phụ Mẫu · Phụ Mẫu**: {S1} {H1}"}
+{"id": 9393, "vi": "▍**Tam Hợp của Tử Nữ · Phụ Mẫu · Phụ Mẫu**: {S1} {H1}"}
+{"id": 9394, "vi": "▍**Đối cung của Tật Ách · Phụ Mẫu · Phụ Mẫu**: {S1} {H1}"}
 {"id": 9395, "vi": "· **{S1} {H1} vào Tài Bạch** — danh lợi song toàn, biến danh tiếng thành tiền."}
 {"id": 9396, "vi": "▍**Bản cung · Nô Bộc**: {S1} {H1}, {S2} ({B1})"}
 {"id": 9397, "vi": "Quan ấn: chức vị và danh phận trong nhà nước, trong hệ thống;"}
-{"id": 9398, "vi": "▍**Phu Thê tam hợp · Thiên Di · Thiên Di**: {S1} {H1}"}
-{"id": 9399, "vi": "▍**Phúc Đức tam hợp · Thiên Di · Thiên Di**: {S1} {H1}"}
+{"id": 9398, "vi": "▍**Tam Hợp của Phu Thê · Thiên Di · Thiên Di**: {S1} {H1}"}
+{"id": 9399, "vi": "▍**Tam Hợp của Phúc Đức · Thiên Di · Thiên Di**: {S1} {H1}"}
 {"id": 9400, "vi": "Bạn nên tự lập cho mình một bảng phán đoán nhanh."}
 {"id": 9401, "vi": "Bạn nên chủ động để con thắng một hai lần tranh luận."}
 {"id": 9402, "vi": "▍**Bản cung · Điền Trạch**: {S1} ({B1}), {S2}"}
@@ -100,7 +100,7 @@
 {"id": 9470, "vi": "Từ chối không phải là bất hiếu, mà là chừa cho mình một lối đi."}
 {"id": 9471, "vi": "Bạn là kiểu người đặt ở đâu cũng khiến người ta yên tâm."}
 {"id": 9472, "vi": "Khoản tiền này dùng cho việc học, rèn luyện thể chất và hình ảnh bản thân."}
-{"id": 9473, "vi": "▍**{P1} tam hợp · Quan Lộc · Quan Lộc**: {S1} {H1} ({B1}), {S2}"}
+{"id": 9473, "vi": "▍**Tam Hợp của {P1} · Quan Lộc · Quan Lộc**: {S1} {H1} ({B1}), {S2}"}
 {"id": 9474, "vi": "Bạn không thích phô trương, nhưng việc gì cũng tính toán rõ ràng;"}
 {"id": 9475, "vi": "Cha mẹ bạn chín chắn thực tế, của cải trong nhà tương đối dày dặn."}
 {"id": 9476, "vi": "Thù lao đáng nhận trong công việc thì cứ mở lời thương lượng thẳng;"}
@@ -113,8 +113,8 @@
 {"id": 9483, "vi": "Trên toàn bộ lá số, Sát Tinh tương đối tập trung nhất ở **{G1}** ({S1} {H1}, {S2}, {S3}) → tạng phủ tương ứng **gan**"}
 {"id": 9484, "vi": "· **Phúc Đức {S1} {H1}** — tinh thần trống rỗng, niềm vui suy giảm."}
 {"id": 9485, "vi": "· **{S1} {H1} vào Quan Lộc** — nghề nghiệp lặp đi lặp lại thay đổi, nguy cơ quyết sách sai lầm."}
-{"id": 9486, "vi": "▍**Phu Thê đối cung · Quan Lộc · Quan Lộc**: {S1} {H1}"}
-{"id": 9487, "vi": "▍**Tài Bạch tam hợp · Quan Lộc · Quan Lộc**: {S1} {H1}"}
+{"id": 9486, "vi": "▍**Đối cung của Phu Thê · Quan Lộc · Quan Lộc**: {S1} {H1}"}
+{"id": 9487, "vi": "▍**Tam Hợp của Tài Bạch · Quan Lộc · Quan Lộc**: {S1} {H1}"}
 {"id": 9488, "vi": "· **Thiên Di {S1} {H1}** — ra ngoài sinh tài, trong động mà được lợi."}
 {"id": 9489, "vi": "Từ khi còn trẻ hãy tập thói quen ghi chép kỳ kinh nguyệt."}
 {"id": 9490, "vi": "Đầu tư theo hướng ổn định, những thứ biến động lớn thì ít đụng vào;"}
@@ -128,12 +128,12 @@
 {"id": 9498, "vi": "{P1} có {S1}, Thầy Nghê nói {S2} vừa chủ võ quan, cũng vừa là tài tinh."}
 {"id": 9499, "vi": "(★ hiệu khám {N1}-{N2}-{N3}: câu trích cũ [{S1} thủ Quan Lộc, {H1} thì cát."}
 {"id": 9500, "vi": "· **Huynh Đệ {S1} {H1}** — anh em gặp huyết quang, kiện tụng, hợp tác làm ăn dễ vì tình mà đổ vỡ."}
-{"id": 9501, "vi": "▍**{P1} đối cung · Thiên Di · Thiên Di**: {S1}, {S2} {H1} ({B1})"}
-{"id": 9502, "vi": "{H1} (cản trở) thì ra ngoài nhiều trắc trở, chuyến đi không thuận, nên lên kế hoạch trước để giảm bất trắc."}
+{"id": 9501, "vi": "▍**Đối cung của {P1} · Thiên Di · Thiên Di**: {S1}, {S2} {H1} ({B1})"}
+{"id": 9502, "vi": "{H1} (trở ngại) thì ra ngoài nhiều trắc trở, chuyến đi không thuận, nên lên kế hoạch trước để giảm bất trắc."}
 {"id": 9503, "vi": "· Thích hợp nhất với tầng quản lý doanh nghiệp lớn."}
-{"id": 9504, "vi": "▍**Quan Lộc tam hợp · {P1} · {P2}**: {S1} {H1}"}
-{"id": 9505, "vi": "▍**Tài Bạch tam hợp · {P1} · {P2}**: {S1} {H1}"}
-{"id": 9506, "vi": "▍**Thiên Di đối cung · {P1} · {P2}**: {S1} {H1}"}
+{"id": 9504, "vi": "▍**Tam Hợp của Quan Lộc · {P1} · {P2}**: {S1} {H1}"}
+{"id": 9505, "vi": "▍**Tam Hợp của Tài Bạch · {P1} · {P2}**: {S1} {H1}"}
+{"id": 9506, "vi": "▍**Đối cung của Thiên Di · {P1} · {P2}**: {S1} {H1}"}
 {"id": 9507, "vi": "· **{P1} {S1} {H1}** — phối ngẫu trong nhà nói một là một, tranh giành quyền lực rõ rệt."}
 {"id": 9508, "vi": "· **Huynh Đệ {S1} {H1}** — hình khắc anh em, hợp tác làm ăn có tranh chấp tài chính hoặc tai nạn huyết quang."}
 {"id": 9509, "vi": "Thích hợp với con đường thực quyền như quân đội, cảnh sát, pháp luật, làm văn chức thuần túy thì khó phát huy."}
@@ -149,30 +149,30 @@
 {"id": 9519, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (Không Vong), {S3} (đao kiếm · huyết quang)】 gặp {S4} → giải ách chế hóa, gặp hung hóa cát (chỉ {S5} giải được) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
 {"id": 9520, "vi": "Đồng cung với {S1} thì “xuất thân quân ngũ”, ý nói lập nghiệp từ việc đi lính;"}
 {"id": 9521, "vi": "{S1} ngồi vào kho tiền, biết kiếm cũng biết giữ, gặp Sát Tinh thì có lên xuống."}
-{"id": 9522, "vi": "▍**Huynh Đệ tam hợp · Điền Trạch · Điền Trạch**: {S1} {H1}"}
-{"id": 9523, "vi": "▍**Tử Nữ đối cung · Điền Trạch · Điền Trạch**: {S1} {H1}"}
-{"id": 9524, "vi": "▍**Tật Ách tam hợp · Điền Trạch · Điền Trạch**: {S1} {H1}"}
+{"id": 9522, "vi": "▍**Tam Hợp của Huynh Đệ · Điền Trạch · Điền Trạch**: {S1} {H1}"}
+{"id": 9523, "vi": "▍**Đối cung của Tử Nữ · Điền Trạch · Điền Trạch**: {S1} {H1}"}
+{"id": 9524, "vi": "▍**Tam Hợp của Tật Ách · Điền Trạch · Điền Trạch**: {S1} {H1}"}
 {"id": 9525, "vi": "Bạn nên ổn định cảm xúc của mình trước đã."}
 {"id": 9526, "vi": "▍**Bản cung · Quan Lộc**: {S1} {H1}, {S2} ({B1})"}
-{"id": 9527, "vi": "▍**{P1} tam hợp · Tài Bạch · Tài Bạch**: {S1}, {S2} {H1} ({B1})"}
+{"id": 9527, "vi": "▍**Tam Hợp của {P1} · Tài Bạch · Tài Bạch**: {S1}, {S2} {H1} ({B1})"}
 {"id": 9528, "vi": "Đào Hoa luận thế nào, cát hung nặng nhẹ ra sao, phải xem các sao đồng cung và Miếu hay Hãm."}
 {"id": 9529, "vi": "· Cách đoán truyền thống [truyền thừa theo trường phái · chờ kiểm chứng]: “{S1} thủ Mệnh, {H1} chủ quan hình pháp” (★ hiệu khám {N1}-{N2}-{N3}: cái gọi là “Toàn Tập” hiện không có toàn văn bản công cộng đáng tin cậy để kiểm chứng, nền tảng này không còn dựa vào đó nữa, hạ xuống thành cách đoán truyền thống chờ kiểm chứng)"}
 {"id": 9530, "vi": "{P1} của bạn rơi vào **Tài Bạch** ({S1} ({B1}), {S2} {H1} ({B2})) — chuyện tiền bạc ra vào ảnh hưởng lớn nhất đến hậu vận của bạn."}
 {"id": 9531, "vi": "Tiền của bạn kiếm nhờ tiếng tốt, ổn định, có bảo đảm."}
 {"id": 9532, "vi": "▍**Bản cung · Phụ Mẫu**: {S1} {H1}, {S2} ({B1})"}
-{"id": 9533, "vi": "▍**Quan Lộc đối cung · Phu Thê · Phu Thê**: {S1} {H1}"}
-{"id": 9534, "vi": "▍**Phúc Đức tam hợp · Phu Thê · Phu Thê**: {S1} {H1}"}
-{"id": 9535, "vi": "▍**Thiên Di tam hợp · Phu Thê · Phu Thê**: {S1} {H1}"}
-{"id": 9536, "vi": "Khi {H1} (cản trở), tranh chấp công khai bên phía anh em dễ liên lụy đến danh tiếng của bạn, trước hết hãy cắt bạch quan hệ lợi ích, rồi mới bàn đến hàn gắn tình cảm."}
-{"id": 9537, "vi": "Khi {H1} (cản trở), nỗi bất an treo lơ lửng vì danh tiếng sẽ theo bạn rất lâu."}
+{"id": 9533, "vi": "▍**Đối cung của Quan Lộc · Phu Thê · Phu Thê**: {S1} {H1}"}
+{"id": 9534, "vi": "▍**Tam Hợp của Phúc Đức · Phu Thê · Phu Thê**: {S1} {H1}"}
+{"id": 9535, "vi": "▍**Tam Hợp của Thiên Di · Phu Thê · Phu Thê**: {S1} {H1}"}
+{"id": 9536, "vi": "Khi {H1} (trở ngại), tranh chấp công khai bên phía anh em dễ liên lụy đến danh tiếng của bạn, trước hết hãy cắt bạch quan hệ lợi ích, rồi mới bàn đến hàn gắn tình cảm."}
+{"id": 9537, "vi": "Khi {H1} (trở ngại), nỗi bất an treo lơ lửng vì danh tiếng sẽ theo bạn rất lâu."}
 {"id": 9538, "vi": "Lập gia đình quá sớm dễ làm tổn thương nhau."}
 {"id": 9539, "vi": "Mỗi năm khám mắt một lần, ít nhìn ánh sáng mạnh, ít nhìn màn hình trong thời gian dài."}
 {"id": 9540, "vi": "Con cái của bạn phần nhiều ăn nói giỏi, hay chất vấn."}
 {"id": 9541, "vi": "Bạn nên đổi một cách nói khác khi trò chuyện với con."}
 {"id": 9542, "vi": "· {S1} chủ kiếm tiền nhờ tài ăn nói."}
-{"id": 9543, "vi": "▍**Giao Hữu tam hợp · Tử Nữ · Tử Nữ**: {S1} {H1}"}
-{"id": 9544, "vi": "▍**Phụ Mẫu tam hợp · Tử Nữ · Tử Nữ**: {S1} {H1}"}
-{"id": 9545, "vi": "▍**Điền Trạch đối cung · Tử Nữ · Tử Nữ**: {S1} {H1}"}
+{"id": 9543, "vi": "▍**Tam Hợp của Giao Hữu · Tử Nữ · Tử Nữ**: {S1} {H1}"}
+{"id": 9544, "vi": "▍**Tam Hợp của Phụ Mẫu · Tử Nữ · Tử Nữ**: {S1} {H1}"}
+{"id": 9545, "vi": "▍**Đối cung của Điền Trạch · Tử Nữ · Tử Nữ**: {S1} {H1}"}
 {"id": 9546, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, {S4}, {S5}, Thiên Sứ, {S6}, {S7}."}
 {"id": 9547, "vi": "Bạn nên dành những lời sắc bén nhất cho công việc."}
 {"id": 9548, "vi": "Chủ sinh ly hoặc tử biệt;"}
@@ -182,19 +182,19 @@
 {"id": 9552, "vi": "Nhà bạn từ nhỏ đã là gia đình nói lý lẽ."}
 {"id": 9553, "vi": "Trước khi hợp tác làm ăn, bạn nên nói rõ ràng mọi điều."}
 {"id": 9554, "vi": "{H1} (vào tiền) thì đời sống tinh thần phong phú, suy nghĩ linh hoạt và có thu hoạch."}
-{"id": 9555, "vi": "{H1} (cản trở) thì dễ mệt mỏi tinh thần, lo âu hơn, cần tập thói quen thư giãn giảm áp lực."}
-{"id": 9556, "vi": "▍**Huynh Đệ tam hợp · Tật Ách · Tật Ách**: {S1} {H1}"}
-{"id": 9557, "vi": "▍**Phụ Mẫu đối cung · Tật Ách · Tật Ách**: {S1} {H1}"}
-{"id": 9558, "vi": "▍**Điền Trạch tam hợp · Tật Ách · Tật Ách**: {S1} {H1}"}
-{"id": 9559, "vi": "{H1} (cản trở) thì với cha mẹ, cấp trên dễ sinh hiềm khích, cần thường xuyên hàn gắn quan hệ."}
+{"id": 9555, "vi": "{H1} (trở ngại) thì dễ mệt mỏi tinh thần, lo âu hơn, cần tập thói quen thư giãn giảm áp lực."}
+{"id": 9556, "vi": "▍**Tam Hợp của Huynh Đệ · Tật Ách · Tật Ách**: {S1} {H1}"}
+{"id": 9557, "vi": "▍**Đối cung của Phụ Mẫu · Tật Ách · Tật Ách**: {S1} {H1}"}
+{"id": 9558, "vi": "▍**Tam Hợp của Điền Trạch · Tật Ách · Tật Ách**: {S1} {H1}"}
+{"id": 9559, "vi": "{H1} (trở ngại) thì với cha mẹ, cấp trên dễ sinh hiềm khích, cần thường xuyên hàn gắn quan hệ."}
 {"id": 9560, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (Không Vong), {S3} (kéo dài · hao tổn ngầm)】 gặp {S4} → giải ách chế hóa, gặp hung hóa cát (chỉ {S5} giải được) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
-{"id": 9561, "vi": "{H1} (cản trở) thì bạn bè nữ mang đến thị phi hoặc tranh chấp tình cảm, Thầy Nghê đoán cung bạn bè {H2} là “hùn hạp với người hoặc đứng ra bảo lãnh cho người ta, kết quả ắt thất bại” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3})."}
+{"id": 9561, "vi": "{H1} (trở ngại) thì bạn bè nữ mang đến thị phi hoặc tranh chấp tình cảm, Thầy Nghê đoán cung bạn bè {H2} là “hùn hạp với người hoặc đứng ra bảo lãnh cho người ta, kết quả ắt thất bại” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3})."}
 {"id": 9562, "vi": "Phối ngẫu khiêm hòa đôn hậu, ngoại hình đẹp, khi sức sao mạnh thì không tổn hại tình cảm."}
 {"id": 9563, "vi": "Chỉ thêm {S1}, {S2}, {S3}, {S4} thì cũng chỉ ở mức bình thường."}
 {"id": 9564, "vi": "· **Điền Trạch {S1} {H1}** — mâu thuẫn trong gia trạch nổi lên, niềm vui giảm sút."}
 {"id": 9565, "vi": "{S1} {H1} ở {P1} hoặc tam phương, khả năng nắm giữ điền trạch và bất động sản cực mạnh, là cách cục tự mình đầu tư địa ốc, thu tiền thuê, làm ông (bà) chủ cho thuê — mệnh nữ có cách này thì là người quyết định cao nhất về tài chính trong nhà, mệnh nam có cách này thì nhờ sức vợ mà nắm tiền, lấy việc phân bổ tài sản vững vàng làm trục chính, không giỏi đầu cơ nhưng giỏi nắm giữ lâu dài."}
 {"id": 9566, "vi": "Đồng cung với {S1} thì tiền giữ được, đồng cung với {S2} thì trước khó sau dễ."}
-{"id": 9567, "vi": "Khi {H1} (cản trở), tranh chấp công khai do phía anh em gây ra dễ liên lụy đến danh tiếng của bạn, trước hết hãy tách bạch tiền bạc và trách nhiệm, rồi mới nói đến tình nghĩa."}
+{"id": 9567, "vi": "Khi {H1} (trở ngại), tranh chấp công khai do phía anh em gây ra dễ liên lụy đến danh tiếng của bạn, trước hết hãy tách bạch tiền bạc và trách nhiệm, rồi mới nói đến tình nghĩa."}
 {"id": 9568, "vi": "Không phải là không tin tưởng, mà là chừa cho nhau một lối đi."}
 {"id": 9569, "vi": "Bạn xưa nay vẫn được mô tả là cứng cỏi, có khí thế."}
 {"id": 9570, "vi": "Hãy nghĩ trước một lượt tình huống xấu nhất rồi mới bắt tay làm."}
@@ -219,7 +219,7 @@
 {"id": 9589, "vi": "Thay đổi quá thường xuyên thì không tích lũy được bản lĩnh thật trong tay."}
 {"id": 9590, "vi": "Tổng thể vẫn khá tốt."}
 {"id": 9591, "vi": "{S1} {H1} ở Quan Lộc, chữ Lộc này có thể chỉ tiền bạc qua tay, do mình quản lý ở vị trí công việc, không có nghĩa là tiền thuộc về mình."}
-{"id": 9592, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, {S3}) → ứng với tạng phủ 【tâm bào (tâm khí hậu thiên)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9592, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, {S3}) → ứng với tạng phủ 【tâm bào (tâm khí hậu thiên)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9593, "vi": "Phối ngẫu chín chắn, biết lo việc nhà, tính thẳng nhưng lại không xung đột, có thể bạc đầu giai lão."}
 {"id": 9594, "vi": "Không phải khai hoang từ con số không."}
 {"id": 9595, "vi": "Sau trung niên, tài chính sẽ rủng rỉnh lên rõ rệt."}
@@ -235,22 +235,22 @@
 {"id": 9605, "vi": "Cha mẹ bạn phần nhiều giữ nề nếp, có giáo dưỡng."}
 {"id": 9606, "vi": "Việc bạn đã xác định thì người khác rất khó kéo bạn đi lệch;"}
 {"id": 9607, "vi": "Người bạn đời khí chất mạnh, tính khí cứng, kết hôn muộn một chút lại có thể bạc đầu giai lão;"}
-{"id": 9608, "vi": "{S1} {H1} (cản trở), sách xưa cũng đoán “thời trẻ nên ở riêng, bất hòa”."}
+{"id": 9608, "vi": "{S1} {H1} (trở ngại), sách xưa cũng đoán “thời trẻ nên ở riêng, bất hòa”."}
 {"id": 9609, "vi": "· **Điền Trạch {S1} {H1}** — không khí nghệ thuật trong nhà đậm đà, cuộc sống có thú vị."}
 {"id": 9610, "vi": "Tiền đến từ phúc lộc ổn định, chất lượng cuộc sống cao, đời sống tinh thần phong phú."}
-{"id": 9611, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【phổi】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9611, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【phổi】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9612, "vi": "· **Giao Hữu {S1} {H1}** — bạn bè trở mặt, bị người khôn lanh gài bẫy."}
 {"id": 9613, "vi": "· **Phúc Đức {S1} {H1}** — vướng mắc tình cảm quấn lấy lòng, khó buông bỏ."}
-{"id": 9614, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở cung Tý ({S1} {H1}, {S2}, {S3}) → ứng với tạng phủ 【mật】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9614, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở cung Tý ({S1} {H1}, {S2}, {S3}) → ứng với tạng phủ 【mật】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9615, "vi": "Vận quý nhân cực tốt, thường được nâng đỡ vào thời khắc then chốt, cả đời danh dự không tì vết."}
 {"id": 9616, "vi": "· **Phúc Đức {S1} {H1}** — lo âu tài chính bám rễ sâu, tinh thần khó thả lỏng."}
 {"id": 9617, "vi": "Giờ giấc sinh hoạt mà rối loạn thì hồi phục cũng chậm hơn người khác."}
 {"id": 9618, "vi": "Ít đụng vào đồ quá hàn lạnh, ăn cơm đúng giờ."}
 {"id": 9619, "vi": "Tâm trạng cứ bị dồn nén là cơ thể kêu mệt thay bạn trước."}
 {"id": 9620, "vi": "Hãy dùng con mắt chọn đồ của bạn vào việc mua nhà."}
-{"id": 9621, "vi": "▍**Giao Hữu đối cung · Huynh Đệ · Huynh Đệ**: {S1} {H1}"}
-{"id": 9622, "vi": "▍**Điền Trạch tam hợp · Huynh Đệ · Huynh Đệ**: {S1} {H1}"}
-{"id": 9623, "vi": "▍**Tật Ách tam hợp · Huynh Đệ · Huynh Đệ**: {S1} {H1}"}
+{"id": 9621, "vi": "▍**Đối cung của Giao Hữu · Huynh Đệ · Huynh Đệ**: {S1} {H1}"}
+{"id": 9622, "vi": "▍**Tam Hợp của Điền Trạch · Huynh Đệ · Huynh Đệ**: {S1} {H1}"}
+{"id": 9623, "vi": "▍**Tam Hợp của Tật Ách · Huynh Đệ · Huynh Đệ**: {S1} {H1}"}
 {"id": 9624, "vi": "Người đó phản ứng rất nhanh.”"}
 {"id": 9625, "vi": "· **Tử Nữ {S1} {H1}** — con cái phúc dày, cuộc sống hạnh phúc."}
 {"id": 9626, "vi": "Bạn là kiểu dịu dàng tinh tế hiếm thấy ở nam giới."}
@@ -267,20 +267,20 @@
 {"id": 9637, "vi": "Phát huy tốt nhất trên con đường quan trường hoặc tầng lãnh đạo cao của doanh nghiệp, uy quyền không ai bì kịp, nhưng cần đề phòng quá độc đoán mà bị cô lập."}
 {"id": 9638, "vi": "{S1} {H1} thủ Mệnh, ham muốn lãnh đạo và kiểm soát đẩy lên mạnh nhất, bẩm sinh thích hợp tự mình gánh vác một phương, nắm quyền làm chủ."}
 {"id": 9639, "vi": "· **Phụ Mẫu {S1} {H1}** — cha mẹ tài hoa và tình cảm đều đẹp, được cấp trên trọng dụng."}
-{"id": 9640, "vi": "▍**{P1} tam hợp · Quan Lộc · Quan Lộc**: {S1} {H1}, {S2}"}
+{"id": 9640, "vi": "▍**Tam Hợp của {P1} · Quan Lộc · Quan Lộc**: {S1} {H1}, {S2}"}
 {"id": 9641, "vi": "Trên toàn bộ lá số, Sát Tinh tương đối tập trung nhất ở **{G1}** ({S1}, {S2}, Thiên Không) → tạng phủ tương ứng **tam tiêu (đường chuyển hóa thủy dịch)**"}
-{"id": 9642, "vi": "Lúc {H1} (cản trở), người ta dễ sa xuống chỗ thấp, hoặc mượn rượu, dựa vào một mối quan hệ không lành mạnh để làm tê liệt bản thân, đây là khuynh hướng cần lưu ý, không phải định số."}
+{"id": 9642, "vi": "Lúc {H1} (trở ngại), người ta dễ sa xuống chỗ thấp, hoặc mượn rượu, dựa vào một mối quan hệ không lành mạnh để làm tê liệt bản thân, đây là khuynh hướng cần lưu ý, không phải định số."}
 {"id": 9643, "vi": "· **{S1} {H1} thì Đào Hoa hóa cát** — chủ nhờ tài nghệ sinh tiền, nhiều quý nhân."}
 {"id": 9644, "vi": "· **Thiên Di {S1} {H1}** — Đào Hoa ở nơi xa biến thành quý nhân, tài hoa được tán thưởng."}
-{"id": 9645, "vi": "Khi {H1} (cản trở), dễ xa cách với cha mẹ, cấp trên vì lời nói không rõ ràng."}
-{"id": 9646, "vi": "Khi {H1} (cản trở), ra ngoài dễ gây thị phi, tổn hại danh tiếng, giai đoạn đó nên ít lộ diện, ít nhận hợp tác với người không quen, thủ tục và hợp đồng đều làm cho rõ ràng."}
+{"id": 9645, "vi": "Khi {H1} (trở ngại), dễ xa cách với cha mẹ, cấp trên vì lời nói không rõ ràng."}
+{"id": 9646, "vi": "Khi {H1} (trở ngại), ra ngoài dễ gây thị phi, tổn hại danh tiếng, giai đoạn đó nên ít lộ diện, ít nhận hợp tác với người không quen, thủ tục và hợp đồng đều làm cho rõ ràng."}
 {"id": 9647, "vi": "Người bạn đời tính cương trực, có chính kiến, kết hôn muộn một chút thì thuận hơn;"}
 {"id": 9648, "vi": "{S1} {H1} ở {P1} hoặc tam phương, Đào Hoa thành Đào Hoa xấu, thiên tài thành phá tài — khẩu quyết xưa nói “{S2} {H2}, tiền bạc và sắc dục đều mất trắng”, rủi ro lớn nhất là vì rượu chè, sắc dục, cờ bạc, quan hệ tình cảm không đúng đắn, tiêu xài vì hư vinh mà thất thoát khoản tiền lớn."}
 {"id": 9649, "vi": "· Hôn nhân thăng trầm lớn, phải xem các Đại Hạn mười năm phía sau diễn tiến thế nào."}
 {"id": 9650, "vi": "▍**Bản cung · {P1}**: {S1}, {S2} {H1} ({B1})"}
 {"id": 9651, "vi": "Tiền đến từ phía đông lại đi về phía tây, trước không có sau mới có, vào tay rồi cũng không giữ được."}
 {"id": 9652, "vi": "Chính Tinh của cung này: ({P1} Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1}), {J1}"}
-{"id": 9653, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【tim (tâm khí tiên thiên)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9653, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【tim (tâm khí tiên thiên)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9654, "vi": "{S1} là sao đeo đai quan, tọa {P1} chính là điều Thầy Nghê gọi là đúng chỗ của nó."}
 {"id": 9655, "vi": "Tiền đến từ cạnh tranh, kiếm được là tiền vất vả, nhưng tích góp được."}
 {"id": 9656, "vi": "Mua nhà, bạn đừng chỉ chăm chăm nhìn giá có tăng hay không."}
@@ -290,13 +290,13 @@
 {"id": 9660, "vi": "Thể chất bạn khá tốt, sức hồi phục cũng tốt."}
 {"id": 9661, "vi": "**{S1} {H1} ở {P1}** — Thầy Nghê nói {S2} {H2} thì “đều là mẹ chồng nàng dâu bất hòa”, mệnh nữ là bản thân không hợp với mẹ chồng (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3}—{N4}:{N5})."}
 {"id": 9662, "vi": "Bạn tiêu tiền không chuộng phô trương, giữ được tay."}
-{"id": 9663, "vi": "▍**Quan Lộc tam hợp · Tài Bạch · Tài Bạch**: {S1} {H1}"}
-{"id": 9664, "vi": "▍**Phúc Đức đối cung · Tài Bạch · Tài Bạch**: {S1} {H1}"}
+{"id": 9663, "vi": "▍**Tam Hợp của Quan Lộc · Tài Bạch · Tài Bạch**: {S1} {H1}"}
+{"id": 9664, "vi": "▍**Đối cung của Phúc Đức · Tài Bạch · Tài Bạch**: {S1} {H1}"}
 {"id": 9665, "vi": "Gặp Sát Tinh đến xung thì ngược lại, vì người bạn đời mà tổn tài."}
 {"id": 9666, "vi": "Cần cố ý xây dựng cảm giác tin cậy và sự ổn định, nếu không tình cảm khó bền lâu."}
 {"id": 9667, "vi": "{H1} (vào tiền) thì bạn bè mang đến cơ hội, nhân mạch có thể sinh tài."}
 {"id": 9668, "vi": "Thầy Nghê giảng về tướng mạo người {S1} tọa Mệnh: “Võ quan phát ở dáng ngũ đoản."}
-{"id": 9669, "vi": "Khi {H1} (cản trở), ở bên ngoài dễ bị người ta đàm tiếu hoặc bị bắt chuyện quấy rối, giai đoạn đó nên ít nhận lời mời của người lạ, về an toàn thì để tâm nhiều hơn."}
+{"id": 9669, "vi": "Khi {H1} (trở ngại), ở bên ngoài dễ bị người ta đàm tiếu hoặc bị bắt chuyện quấy rối, giai đoạn đó nên ít nhận lời mời của người lạ, về an toàn thì để tâm nhiều hơn."}
 {"id": 9670, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, Long Đức."}
 {"id": 9671, "vi": "{H1} (vào tiền) thì kiếm tiền nhờ nhân mạch bạn bè, tin tức cũng nhanh nhạy."}
 {"id": 9672, "vi": "▍**Bản cung · {P1}**: {S1}, {S2}"}
@@ -312,13 +312,13 @@
 {"id": 9682, "vi": "Lộc ở Quan Lộc, có thể chỉ tiền bạc của nhà nước hoặc cơ quan do mình quản lý ở vị trí công việc, nắm tiền không đồng nghĩa với tiền thuộc về mình."}
 {"id": 9683, "vi": "· Tài tinh + khố tinh nhập {P1}, cách cục quản lý tài chính mạnh nhất."}
 {"id": 9684, "vi": "Ở ba cung liên quan khác mà gặp {S1} thì chuyển sang văn chức;"}
-{"id": 9685, "vi": "Lúc {H1} (cản trở), những ý nghĩ như có đủ không, năm sau tính sao sẽ đặc biệt nhiều, hãy nghiêm túc tính sổ một lượt rồi đi làm việc khác, có ích hơn là nghĩ vẩn vơ lặp đi lặp lại."}
-{"id": 9686, "vi": "Lúc {H1} (cản trở), những ý nghĩ như tiền có đủ không, đơn sau có nối tiếp được không sẽ đặc biệt nhiều, lúc ấy hãy nghiêm túc sắp xếp sổ sách một lượt, có ích hơn là nghĩ vẩn vơ lặp đi lặp lại."}
+{"id": 9685, "vi": "Lúc {H1} (trở ngại), những ý nghĩ như có đủ không, năm sau tính sao sẽ đặc biệt nhiều, hãy nghiêm túc tính sổ một lượt rồi đi làm việc khác, có ích hơn là nghĩ vẩn vơ lặp đi lặp lại."}
+{"id": 9686, "vi": "Lúc {H1} (trở ngại), những ý nghĩ như tiền có đủ không, đơn sau có nối tiếp được không sẽ đặc biệt nhiều, lúc ấy hãy nghiêm túc sắp xếp sổ sách một lượt, có ích hơn là nghĩ vẩn vơ lặp đi lặp lại."}
 {"id": 9687, "vi": "· {S1} là sao Ấn, sao Ấn ở {P1} chủ chính tài ổn định."}
 {"id": 9688, "vi": "· **Phụ Mẫu {S1} {H1}** — giao tiếp với cha mẹ, cấp trên sinh hiềm khích."}
 {"id": 9689, "vi": "· **Điền Trạch {S1} {H1}** — gia trạch không yên, thay đổi chỗ ở thường xuyên."}
 {"id": 9690, "vi": "· **Thiên Di {S1} {H1}** — chuyến đi nhiều biến đổi, ra ngoài không thuận."}
-{"id": 9691, "vi": "▍**{P1} tam hợp · Tài Bạch · Tài Bạch**: {S1} {H1}, {S2}"}
+{"id": 9691, "vi": "▍**Tam Hợp của {P1} · Tài Bạch · Tài Bạch**: {S1} {H1}, {S2}"}
 {"id": 9692, "vi": "{S1} {H1}, năng lực khai phá và kiểm soát tăng mạnh, nắm quyền chủ đạo trong biến đổi, thích hợp tự lập khởi nghiệp hoặc dẫn dắt đội ngũ thâm nhập thị trường mới, là cách cục uy quyền của người tiên phong."}
 {"id": 9693, "vi": "Chính Tinh của cung này: {S1} {H1}, {S2} ({B1}), {J1}"}
 {"id": 9694, "vi": "Bạn là kiểu phụ nữ độc lập, quả quyết."}
@@ -359,13 +359,13 @@
 {"id": 9729, "vi": "Lòng bạn mềm mỏng, chu đáo đến mức gần như tận tình."}
 {"id": 9730, "vi": "Tình cảm giữa bạn và chị em gái đặc biệt nặng."}
 {"id": 9731, "vi": "· **{S1} {H1} vào Tài Bạch** — dựa vào năng lực bản thân tích lũy tài sản lớn."}
-{"id": 9732, "vi": "Khi {H1} (cản trở), mắt và danh tiếng của con dễ gặp vấn đề, thói quen dùng mắt nên quản sớm, định kỳ đưa con đi kiểm tra thị lực."}
+{"id": 9732, "vi": "Khi {H1} (trở ngại), mắt và danh tiếng của con dễ gặp vấn đề, thói quen dùng mắt nên quản sớm, định kỳ đưa con đi kiểm tra thị lực."}
 {"id": 9733, "vi": "Không phải có thời gian rảnh mới dành ra, mà là dành ra trước."}
 {"id": 9734, "vi": "Hãy nghiêm túc xếp thời gian ở một mình vào lịch trình."}
 {"id": 9735, "vi": "· **{S1} {H1} vào Tài Bạch** — tài vận và cuộc sống đều thuận."}
-{"id": 9736, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【tam tiêu (đường chuyển hóa thủy dịch)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9736, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【tam tiêu (đường chuyển hóa thủy dịch)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9737, "vi": "Chính Tinh của cung này: {S1} ({B1}), {S2}, {J1}"}
-{"id": 9738, "vi": "Khi {H1} (cản trở), bạn dễ mắc một kiểu lo âu — luôn sợ sự yên ổn trước mắt sắp mất, chỉ hơi không thuận là thấy mọi thứ hỏng hết."}
+{"id": 9738, "vi": "Khi {H1} (trở ngại), bạn dễ mắc một kiểu lo âu — luôn sợ sự yên ổn trước mắt sắp mất, chỉ hơi không thuận là thấy mọi thứ hỏng hết."}
 {"id": 9739, "vi": "· Nếu hội thêm {S1} {S2}, trước khi cưới có nhiều đối tượng để lựa chọn."}
 {"id": 9740, "vi": "· **{S1} {H1} vào Tài Bạch** — quyết sách sai lầm, tiền đến rồi tiền đi."}
 {"id": 9741, "vi": "· **{S1} {H1} thì kiểm soát mạnh** — ý chí bản thân đẩy đến cực điểm."}
@@ -384,9 +384,9 @@
 {"id": 9754, "vi": "· **Thiên Di {S1} {H1}** — nắm quyền ở nơi xa, có thể làm lãnh đạo."}
 {"id": 9755, "vi": "{S1} {H1} ở {P1} hoặc tam phương, tiền Đào Hoa và thiên tài cùng khởi động, tiền đến từ nhân mạch, tài nghệ, các giao dịch thành công ở chốn giao tế — các ngành cần đông người như ẩm thực, giải trí, khách sạn, hộp đêm, làm đẹp, KTV, truyền thông là vượng nhất."}
 {"id": 9756, "vi": "{S1} {H1}, tài ăn nói chuyển hóa thành sức hấp dẫn trong tình cảm, khả năng giao tiếp tốt là ưu thế lớn nhất trong tình cảm, người bạn đời tán thưởng cách bạn biểu đạt, độ ấm áp của lời nói trong tình cảm quyết định chất lượng mối quan hệ."}
-{"id": 9757, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【bàng quang】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9757, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【bàng quang】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9758, "vi": "Người bạn đời thực tế, biết vun vén gia đình, biết thương người, nhưng thích hợp kết hôn muộn."}
-{"id": 9759, "vi": "Lúc {H1} (cản trở), rắc rối bên ngoài phần nhiều nảy sinh từ chuyện nhân tình và quan hệ nam nữ."}
+{"id": 9759, "vi": "Lúc {H1} (trở ngại), rắc rối bên ngoài phần nhiều nảy sinh từ chuyện nhân tình và quan hệ nam nữ."}
 {"id": 9760, "vi": "· {S1} nhập {P1}, phối ngẫu chú trọng hình thức bên ngoài."}
 {"id": 9761, "vi": "· {S1} nhập {P1}, phối ngẫu có khí chất và địa vị."}
 {"id": 9762, "vi": "Mua nhà, bạn đừng chỉ nhìn giá có tăng hay không."}
@@ -409,7 +409,7 @@
 {"id": 9779, "vi": "· **{S1} {H1} thì cứng rắn hại mình** — cố chấp, kiện tụng, hình thương."}
 {"id": 9780, "vi": "Bạn nên biến sự sắc bén thành sức thuyết phục."}
 {"id": 9781, "vi": "Khi đến nơi khác, lòng bạn không dễ yên."}
-{"id": 9782, "vi": "Khi {H1} (cản trở), thị phi do bạn bè mang đến sẽ trực tiếp làm tổn hại danh tiếng của bạn, mối quan hệ nào cần cắt thì cắt sớm, đừng để kéo dài đến khi xảy ra chuyện."}
+{"id": 9782, "vi": "Khi {H1} (trở ngại), thị phi do bạn bè mang đến sẽ trực tiếp làm tổn hại danh tiếng của bạn, mối quan hệ nào cần cắt thì cắt sớm, đừng để kéo dài đến khi xảy ra chuyện."}
 {"id": 9783, "vi": "{P1} gặp {H1} hoặc {H2}, sách xưa nói “Khoa Quyền đồng cung thì bốn năm người”: anh chị em có bốn năm người."}
 {"id": 9784, "vi": "· [Cách đoán của Thầy Nghê · ứng kỳ] Đại Hạn hiện tại ({N1}-{N2} tuổi) đi vào 【{P1}】: {S1} [Bình], {S2} [Bình];"}
 {"id": 9785, "vi": "Trên toàn bộ lá số, Sát Tinh tương đối tập trung nhất ở **{G1}** ({S1} {H1}, {S2}, {S3}) → tạng phủ tương ứng **tỳ (tỳ chủ vận hóa theo Đông y)**"}
@@ -421,14 +421,14 @@
 {"id": 9791, "vi": "· **{S1} {H1} vào Quan Lộc** — có tiếng nói chuyên môn, có sức ảnh hưởng trong lĩnh vực."}
 {"id": 9792, "vi": "· {S1} chủ quyết sách tài chính, {S2} chủ đổi mới cải cách."}
 {"id": 9793, "vi": "Mục {S1}: “Đồng cung với {S2} thủ ở Tỵ, {G1} thì đông đến tây đi”"}
-{"id": 9794, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【thận (thận theo Đông y)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9794, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【thận (thận theo Đông y)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9795, "vi": "{S1} {H1} thủ Mệnh, Đào Hoa và tài vận đều vượng, đa tài nghệ, sức hút giao tiếp cực mạnh — tiền đến từ nhân mạch rộng và kỹ năng đa dạng, càng năng động càng có tiền, là cách cục tốt nhất để sinh tài nhờ nhân mạch."}
-{"id": 9796, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【đại tràng】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9796, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【đại tràng】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9797, "vi": "· {S1} chủ kiếm tiền nhờ cạnh tranh, {S2} chủ đầu tư quả quyết."}
 {"id": 9798, "vi": "Quyển 3: “{S1} {S2} ở chỗ {B1} lại thành người tích của làm giàu”"}
 {"id": 9799, "vi": "{P1} có {S1} {H1} thì có nghĩa là danh dự của người chồng có vấn đề, hoặc ít gặp nhiều xa, hoặc hôn nhân xuất hiện nguy cơ vì tranh chấp danh dự."}
 {"id": 9800, "vi": "▍**Bản cung · Phúc Đức**: {S1} {H1}"}
-{"id": 9801, "vi": "Lúc {H1} (cản trở), người ta dễ sa xuống chỗ thấp, hoặc mượn rượu, dựa vào sự náo nhiệt để làm tê liệt bản thân, đây là khuynh hướng cần lưu ý, không phải định số."}
+{"id": 9801, "vi": "Lúc {H1} (trở ngại), người ta dễ sa xuống chỗ thấp, hoặc mượn rượu, dựa vào sự náo nhiệt để làm tê liệt bản thân, đây là khuynh hướng cần lưu ý, không phải định số."}
 {"id": 9802, "vi": "Giữa bạn và anh chị em không tính là gần gũi."}
 {"id": 9803, "vi": "Bạn bẩm sinh tràn đầy sinh lực, chịu được vất vả cũng chơi được hết mình."}
 {"id": 9804, "vi": "Tình trạng chỗ ở của bạn thường không mấy ổn định."}
@@ -450,7 +450,7 @@
 {"id": 9820, "vi": "{P1} của bạn rơi vào **Phúc Đức** ({S1}, {S2} ({B1})) — chuyện hưởng thụ tinh thần, tâm tính ảnh hưởng lớn nhất đến hậu vận của bạn."}
 {"id": 9821, "vi": "Gặp Không Kiếp thì phá rồi khó lập lại."}
 {"id": 9822, "vi": "· {S1} nhập Quan Lộc chủ sự nghiệp nhiều biến đổi, không ngừng đổi mới."}
-{"id": 9823, "vi": "{H1} (cản trở) thì gia trạch không yên ổn, cố gắng giữ chỗ ở ổn định."}
+{"id": 9823, "vi": "{H1} (trở ngại) thì gia trạch không yên ổn, cố gắng giữ chỗ ở ổn định."}
 {"id": 9824, "vi": "Hỏi thêm một câu “con muốn cái nào”."}
 {"id": 9825, "vi": "Bạn nên chủ động đề nghị công ty tăng lương."}
 {"id": 9826, "vi": "{H1} (vào tiền) thì phúc khí và tài lộc đều tốt, cuộc đời thuận lợi."}
@@ -462,7 +462,7 @@
 {"id": 9832, "vi": "· **Huynh Đệ {S1} {H1}** — hợp tác làm ăn sinh tài lớn, anh em giúp đỡ nhau về tiền bạc."}
 {"id": 9833, "vi": "Cũng sẽ để dành một khoản tiền khẩn cấp cho riêng mình."}
 {"id": 9834, "vi": "· {S1} là ấm tinh che chở tiền tài."}
-{"id": 9835, "vi": "Khi {H1} (cản trở), duyên con cái càng mỏng, hoặc có con rồi con cũng thường chống đối bạn, khó quản, lúc này quản chặt hơn cũng vô ích, hãy nghe con nói hết trước thì hiệu quả hơn."}
+{"id": 9835, "vi": "Khi {H1} (trở ngại), duyên con cái càng mỏng, hoặc có con rồi con cũng thường chống đối bạn, khó quản, lúc này quản chặt hơn cũng vô ích, hãy nghe con nói hết trước thì hiệu quả hơn."}
 {"id": 9836, "vi": "Bạn nên sớm thiết lập ranh giới."}
 {"id": 9837, "vi": "Bạn nên tập một cách từ chối ôn hòa."}
 {"id": 9838, "vi": "· **Phúc Đức {S1} {H1}** — tinh thần sung túc, tài hoa và tình cảm đều đẹp."}
@@ -485,7 +485,7 @@
 {"id": 9855, "vi": "Bạn gần gũi với mẹ đến mức gần như không tách rời."}
 {"id": 9856, "vi": "Bà là điểm tựa tinh thần lớn nhất của bạn;"}
 {"id": 9857, "vi": "· **{S1} {H1} vào Quan Lộc** — nắm quyền tài chính, làm chủ quản, tự gánh vác một phương."}
-{"id": 9858, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【gan】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9858, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【gan】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9859, "vi": "Chính Tinh của cung này: ({P1} Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
 {"id": 9860, "vi": "Rủi ro phẫu thuật, tai nạn, kiện tụng cao hơn người thường, tai họa huyết quang cần đặc biệt đề phòng."}
 {"id": 9861, "vi": "Tạng phủ nào cần lưu ý thì vẫn xem địa chi của cung có Sát Tinh tập trung nhất trên toàn lá số."}
@@ -498,14 +498,14 @@
 {"id": 9868, "vi": "Mệnh nữ là bản thân không hợp với mẹ chồng)."}
 {"id": 9869, "vi": "Ít dầu mỡ, ít rượu;"}
 {"id": 9870, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, {S4}, {S5}, {S6}, {S7}, {S8}, {S9}, Thiên Sứ."}
-{"id": 9871, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【dạ dày】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9871, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【dạ dày】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9872, "vi": "· Tài tinh + sao Ấn nhập {P1}, năng lực quản lý tiền cực mạnh."}
-{"id": 9873, "vi": "▍**{P1} đối cung · Thiên Di · Thiên Di**: {S1} {H1}, {S2}"}
+{"id": 9873, "vi": "▍**Đối cung của {P1} · Thiên Di · Thiên Di**: {S1} {H1}, {S2}"}
 {"id": 9874, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (đao kiếm · huyết quang), Thiên Không (hư hao)】 gặp {S3} → giải ách chế hóa, gặp hung hóa cát (chỉ {S4} giải được) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
 {"id": 9875, "vi": "{S1} {H1}, Đào Hoa biến thành thị phi — trong tình cảm dễ gặp phải đối tượng không đáng tin, hoặc vì quan hệ tình cảm mà dẫn đến đủ loại rắc rối và tranh chấp, cần đặc biệt thận trọng khi chọn bạn đời, tránh để tình cảm đi lạc đường."}
 {"id": 9876, "vi": "Đồng cung với {S1} nhưng có Cát Tinh thì có thể tránh được tổn hại này."}
 {"id": 9877, "vi": "▍**Bản cung · Quan Lộc**: {S1} {H1}"}
-{"id": 9878, "vi": "{S1} {H1} (cản trở) ở {P1}, trước hết tác động đến phía người chồng, về tình cảm cần để ý nhiều hơn đến thị phi bên ngoài;"}
+{"id": 9878, "vi": "{S1} {H1} (trở ngại) ở {P1}, trước hết tác động đến phía người chồng, về tình cảm cần để ý nhiều hơn đến thị phi bên ngoài;"}
 {"id": 9879, "vi": "· Tài tinh + hao tinh nhập {P1}, vào nhiều ra nhiều."}
 {"id": 9880, "vi": "{P1} của bạn rơi vào **Thiên Di** ({S1}, {S2} ({B1})) — chuyện ra ngoài, ở nơi xa ảnh hưởng lớn nhất đến hậu vận của bạn."}
 {"id": 9881, "vi": "Chính Tinh của cung này: (Quan Lộc Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
@@ -529,7 +529,7 @@
 {"id": 9899, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (Không Vong), {S3} (nóng nảy · đột phát), {S4} (đao kiếm · huyết quang)】 gặp {S5} → giải ách chế hóa, gặp hung hóa cát (chỉ {S6} giải được) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
 {"id": 9900, "vi": "Chính Tinh của cung này: (Phụ Mẫu Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
 {"id": 9901, "vi": "· **{S1} {H1} vào Tài Bạch** — phá tài vì Đào Hoa, tổn tài vì kiện tụng."}
-{"id": 9902, "vi": "Khi {H1} (cản trở), con dễ gặp vấn đề về danh tiếng hoặc mắt, hãy nhắc nhở sớm, định kỳ đưa con đi khám."}
+{"id": 9902, "vi": "Khi {H1} (trở ngại), con dễ gặp vấn đề về danh tiếng hoặc mắt, hãy nhắc nhở sớm, định kỳ đưa con đi khám."}
 {"id": 9903, "vi": "Nên chuyên tâm đào sâu một hướng, lấy ổn định làm chính."}
 {"id": 9904, "vi": "Gặp Sát Tinh đến xung, ngược lại vì phối ngẫu mà phá tài."}
 {"id": 9905, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, {S4}, {S5}, Thiên Sứ, Long Đức, {S6}."}
@@ -547,14 +547,14 @@
 {"id": 9917, "vi": "Chuyện nhà đất, trước hết phải làm rõ quyền sở hữu."}
 {"id": 9918, "vi": "▍**Bản cung · Điền Trạch**: {S1} {H1}"}
 {"id": 9919, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (cướp đoạt phá tài), {S3} (đao kiếm · huyết quang), Thiên Không (hư hao)】 hung chiếu phát tác (không có {S4} để giải) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
-{"id": 9920, "vi": "Khi {H1} (cản trở), rắc rối về danh tiếng hoặc thị phi bên phía người chồng sẽ đè thẳng lên bạn."}
+{"id": 9920, "vi": "Khi {H1} (trở ngại), rắc rối về danh tiếng hoặc thị phi bên phía người chồng sẽ đè thẳng lên bạn."}
 {"id": 9921, "vi": "▍**Bản cung · Phu Thê**: {S1} {H1}"}
 {"id": 9922, "vi": "Mệnh nam: người thầy kiểu bậc trưởng bối)."}
-{"id": 9923, "vi": "Khi {H1} (cản trở), dễ bị bạn bè chơi xấu ngược lại, người cùng làm việc trở thành đối thủ, hoặc đem chuyện của bạn nói ra ngoài."}
-{"id": 9924, "vi": "{H1} (cản trở) thì theo cách nói của Thầy Nghê, {S1} vốn là sao quản thị phi khẩu thiệt, lúc này tranh chấp, khẩu thiệt thị phi dễ nảy sinh cũng dễ làm to chuyện, hợp tác làm ăn với người khác càng phải lưu ý tranh chấp."}
+{"id": 9923, "vi": "Khi {H1} (trở ngại), dễ bị bạn bè chơi xấu ngược lại, người cùng làm việc trở thành đối thủ, hoặc đem chuyện của bạn nói ra ngoài."}
+{"id": 9924, "vi": "{H1} (trở ngại) thì theo cách nói của Thầy Nghê, {S1} vốn là sao quản thị phi khẩu thiệt, lúc này tranh chấp, khẩu thiệt thị phi dễ nảy sinh cũng dễ làm to chuyện, hợp tác làm ăn với người khác càng phải lưu ý tranh chấp."}
 {"id": 9925, "vi": "Chính Tinh của cung này: (Nô Bộc Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
 {"id": 9926, "vi": "{H1} (vào tiền) thì anh em giúp được việc, hợp tác làm ăn thêm phúc."}
-{"id": 9927, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở cung Tý ({S1}, {S2}, {S3}) → ứng với tạng phủ 【mật】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9927, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở cung Tý ({S1}, {S2}, {S3}) → ứng với tạng phủ 【mật】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9928, "vi": "{H1} (vào tiền) thì con cái tài hoa xuất chúng, đầu óc thông minh."}
 {"id": 9929, "vi": "▍**Bản cung · Tử Nữ**: {S1} {H1}"}
 {"id": 9930, "vi": "· Sao Ấn nhập Quan Lộc chủ văn chức, quản lý hành chính."}
@@ -568,7 +568,7 @@
 {"id": 9938, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, {S4}, {S5}, Phá Toái, Thiên Sứ."}
 {"id": 9939, "vi": "· {S1} là tài tinh nhập Quan Lộc chủ sự nghiệp thiên về tài chính."}
 {"id": 9940, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, {S4}, {S5}, Phá Toái, Long Đức, {S6}."}
-{"id": 9941, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【phổi】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9941, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【phổi】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9942, "vi": "Kết hôn quá sớm thì việc dung hòa sẽ nhiều hơn một chút;"}
 {"id": 9943, "vi": "· {S1} chủ khí phách quyết đoán, {S2} chủ tích lũy vững vàng."}
 {"id": 9944, "vi": "{S1} là đế tinh trong Đẩu Số, quản quan chức và sự nghiệp."}
@@ -577,7 +577,7 @@
 {"id": 9947, "vi": "Lớn lên rồi thì việc gì cũng chờ người khác sắp xếp."}
 {"id": 9948, "vi": "▍**Bản cung · Tật Ách**: {S1} {H1}"}
 {"id": 9949, "vi": "Khi {H1} (vào tiền), con cái lớn lên thuận lợi, không lo ăn mặc."}
-{"id": 9950, "vi": "Khi {H1} (cản trở), phía cha hoặc cấp trên dễ xảy ra thị phi công khai, giai đoạn đó nên ít nói, ít ký giấy tờ."}
+{"id": 9950, "vi": "Khi {H1} (trở ngại), phía cha hoặc cấp trên dễ xảy ra thị phi công khai, giai đoạn đó nên ít nói, ít ký giấy tờ."}
 {"id": 9951, "vi": "Bạn nên cẩn thận đừng để lời khen trói buộc."}
 {"id": 9952, "vi": "Có thể tự mình quyết định quản lý tiền bạc được không?"}
 {"id": 9953, "vi": "Bạn có một sự cầu kỳ tự nhiên đối với gia đình."}
@@ -603,22 +603,22 @@
 {"id": 9973, "vi": "{S1} {H1} (nắm quyền) thì có thể lên làm chủ quản, nhưng vẫn là người ăn lương."}
 {"id": 9974, "vi": "Chính Tinh của cung này: (Tật Ách Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
 {"id": 9975, "vi": "{P1} của bạn rơi vào **Tài Bạch** ({S1}, {S2} ({B1})) — chuyện tiền bạc ra vào ảnh hưởng lớn nhất đến hậu vận của bạn."}
-{"id": 9976, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, {S2}, Thiên Không) → ứng với tạng phủ 【dạ dày】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9976, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, {S2}, Thiên Không) → ứng với tạng phủ 【dạ dày】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9977, "vi": "· [Cách đoán của Thầy Nghê · ứng kỳ] Đại Hạn hiện tại ({N1}-{N2} tuổi) đi vào 【{P1}】: {S1} [Bình];"}
-{"id": 9978, "vi": "Khi {H1} (cản trở), kiếm nhiều tiêu cũng nhiều, đến lúc nhìn lại mới thấy tiền đều tiêu vào sinh hoạt, nhà cửa thì không tích góp được."}
+{"id": 9978, "vi": "Khi {H1} (trở ngại), kiếm nhiều tiêu cũng nhiều, đến lúc nhìn lại mới thấy tiền đều tiêu vào sinh hoạt, nhà cửa thì không tích góp được."}
 {"id": 9979, "vi": "▍**Bản cung · Huynh Đệ**: {S1} {H1}"}
-{"id": 9980, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【đại tràng】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 9980, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【đại tràng】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 9981, "vi": "Khi {H1} (vào tiền), mảng nhà cửa vượng nhất, có thể cân nhắc dùng nhà để sinh tiền."}
 {"id": 9982, "vi": "· **Phụ Mẫu {S1} {H1}** — cha mẹ giàu có, cấp trên trọng dụng bạn."}
 {"id": 9983, "vi": "· {S1} tài tinh + {S2} tướng tinh nhập {P1}."}
 {"id": 9984, "vi": "Kiếm tiền dựa vào xông pha cạnh tranh, vào nhiều ra nhiều, không ổn định."}
 {"id": 9985, "vi": "Chính Tinh của cung này: (Phu Thê Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
 {"id": 9986, "vi": "Khi {H1} (vào tiền), bề trên có nhiều nguồn lực trong tay, sẵn lòng trải đường sẵn cho bạn, nhận càng nhiều càng khó tự lập."}
-{"id": 9987, "vi": "Những năm {H1} (cản trở), khám chữa bệnh, tai nạn và tranh chấp sổ sách là dễ thất thoát tiền nhất, các khoản đầu tư lớn hãy tạm hoãn, hợp tác và vay mượn phải giấy trắng mực đen ghi rõ ràng."}
+{"id": 9987, "vi": "Những năm {H1} (trở ngại), khám chữa bệnh, tai nạn và tranh chấp sổ sách là dễ thất thoát tiền nhất, các khoản đầu tư lớn hãy tạm hoãn, hợp tác và vay mượn phải giấy trắng mực đen ghi rõ ràng."}
 {"id": 9988, "vi": "Nên mua đủ bảo hiểm tai nạn và y tế, đầu tư lớn nhất định phải đánh giá thận trọng."}
 {"id": 9989, "vi": "Khi {H1} (vào tiền), tài hoa của con dễ được người khác nhìn thấy;"}
 {"id": 9990, "vi": "· **{S1} {H1} vào Tật Ách** — cần cẩn thận về ngoại thương, phẫu thuật."}
-{"id": 9991, "vi": "{H1} (cản trở) thì ở bên ngoài nhiều thị phi tình cảm, giao tiếp cần thận trọng, đừng coi nơi xa là “thiên đường mất kiểm soát”, nghĩa là đừng tưởng không ai quen biết thì có thể buông thả."}
+{"id": 9991, "vi": "{H1} (trở ngại) thì ở bên ngoài nhiều thị phi tình cảm, giao tiếp cần thận trọng, đừng coi nơi xa là “thiên đường mất kiểm soát”, nghĩa là đừng tưởng không ai quen biết thì có thể buông thả."}
 {"id": 9992, "vi": "{S1} {H1} ở {P1} hoặc tam phương, cần cẩn thận phẫu thuật, vết thương do dao và chấn thương va đập."}
 {"id": 9993, "vi": "{H1} (vào tiền) thì ở bên ngoài tài hoa được trọng thị, nhân mạch biến thành quý nhân."}
 {"id": 9994, "vi": "· {S1} nhập {P1} chủ phối ngẫu giữ nề nếp."}
@@ -633,12 +633,12 @@
 {"id": 10003, "vi": "Gặp {S1}, {S2} thì về tinh thần sẽ có những cảm hứng và đột phá bất chợt nảy ra."}
 {"id": 10004, "vi": "· **Thiên Di {S1} {H1}** — tiền lớn ở nơi xa, nguồn tài dồi dào."}
 {"id": 10005, "vi": "· {S1} nhập {P1}, sách nói nên kết hôn muộn;"}
-{"id": 10006, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【gan】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
-{"id": 10007, "vi": "▍**Huynh Đệ tam hợp · Tật Ách · Tật Ách**: {S1}, {S2}"}
-{"id": 10008, "vi": "▍**Phu Thê tam hợp · Thiên Di · Thiên Di**: {S1}, {S2}"}
-{"id": 10009, "vi": "▍**Phụ Mẫu đối cung · Tật Ách · Tật Ách**: {S1}, {S2}"}
-{"id": 10010, "vi": "▍**Điền Trạch tam hợp · Tật Ách · Tật Ách**: {S1}, {S2}"}
-{"id": 10011, "vi": "▍**Phúc Đức tam hợp · Thiên Di · Thiên Di**: {S1}, {S2}"}
+{"id": 10006, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, Thiên Không) → ứng với tạng phủ 【gan】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 10007, "vi": "▍**Tam Hợp của Huynh Đệ · Tật Ách · Tật Ách**: {S1}, {S2}"}
+{"id": 10008, "vi": "▍**Tam Hợp của Phu Thê · Thiên Di · Thiên Di**: {S1}, {S2}"}
+{"id": 10009, "vi": "▍**Đối cung của Phụ Mẫu · Tật Ách · Tật Ách**: {S1}, {S2}"}
+{"id": 10010, "vi": "▍**Tam Hợp của Điền Trạch · Tật Ách · Tật Ách**: {S1}, {S2}"}
+{"id": 10011, "vi": "▍**Tam Hợp của Phúc Đức · Thiên Di · Thiên Di**: {S1}, {S2}"}
 {"id": 10012, "vi": "· “{S1} Đẩu Số Toàn Thư · quyển 3 · Luận Chư Tinh Đồng Viên”: “{S2} {S3} {H1} lại thành bậc rường cột” (★ hiệu khám {N1}-{N2}-{N3}: câu trích cũ [Tử Sát đồng cung ở Tỵ Hợi, chủ võ quý] đã đối chiếu toàn văn thiện bản trên Wikisource mà không tìm thấy, đổi sang trích nguyên văn)"}
 {"id": 10013, "vi": "{S1} {H1}, Đào Hoa đại vượng, nhiều cơ hội tình cảm, duyên với người khác giới cực tốt, dễ gặp nhiều đối tượng có ý — mấu chốt là tìm ra người thực sự phù hợp giữa nhiều lựa chọn, chứ không phải lạc lối giữa Đào Hoa."}
 {"id": 10014, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, sự nghiệp nghề nghiệp nhiều sóng gió, nên đề phòng sự cố cực đoan."}
@@ -648,32 +648,32 @@
 {"id": 10018, "vi": "{H1} (vào tiền) thì con cái phúc dày, cuộc sống thuận lợi."}
 {"id": 10019, "vi": "Bạn nên bớt dùng giọng dạy dỗ."}
 {"id": 10020, "vi": "Đồng cung với {S1} cũng kiếm tiền ở nơi náo nhiệt;"}
-{"id": 10021, "vi": "{S1} {H1} (cản trở), với anh chị em dễ vì tiền mà xích mích, hợp tác làm ăn dễ sinh tranh chấp, trước khi hợp tác hãy ghi rõ sổ sách và điều khoản rút lui."}
+{"id": 10021, "vi": "{S1} {H1} (trở ngại), với anh chị em dễ vì tiền mà xích mích, hợp tác làm ăn dễ sinh tranh chấp, trước khi hợp tác hãy ghi rõ sổ sách và điều khoản rút lui."}
 {"id": 10022, "vi": "▍**Bản cung · Tài Bạch**: {S1} {H1}"}
 {"id": 10023, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, quý nhân và quan hệ người với người nhiều sóng gió, nên đề phòng sự cố cực đoan."}
 {"id": 10024, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, nhà đất bất động sản nhiều sóng gió, nên đề phòng sự cố cực đoan."}
-{"id": 10025, "vi": "Khi {H1} (cản trở), phía cha dễ gặp trắc trở về danh tiếng, lúc tuổi già ông cũng dễ gặp nhiều trắc trở hơn."}
+{"id": 10025, "vi": "Khi {H1} (trở ngại), phía cha dễ gặp trắc trở về danh tiếng, lúc tuổi già ông cũng dễ gặp nhiều trắc trở hơn."}
 {"id": 10026, "vi": "Gặp chuyện bạn bình tĩnh, nói lý lẽ."}
 {"id": 10027, "vi": "Bạn nên dễ dãi với bản thân một chút."}
 {"id": 10028, "vi": "Chính Tinh của cung này: (Thiên Di Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
-{"id": 10029, "vi": "{H1} (cản trở) thì với cha mẹ hoặc cấp trên dễ vì lời nói mà xung đột, nói năng cần đặc biệt thận trọng, nhất là đừng cãi thẳng mặt bề trên ở nơi công khai, thà nói chuyện riêng sau đó."}
+{"id": 10029, "vi": "{H1} (trở ngại) thì với cha mẹ hoặc cấp trên dễ vì lời nói mà xung đột, nói năng cần đặc biệt thận trọng, nhất là đừng cãi thẳng mặt bề trên ở nơi công khai, thà nói chuyện riêng sau đó."}
 {"id": 10030, "vi": "Chính Tinh của cung này: (Tử Nữ Vô Chính Diệu, mượn {S1} ở đối cung để luận) {S2}, {S3} ({B1})"}
-{"id": 10031, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【tâm bào (tâm khí hậu thiên)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 10031, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1}, {S2}, Thiên Không) → ứng với tạng phủ 【tâm bào (tâm khí hậu thiên)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 10032, "vi": "Lúc {H1} (vào tiền), mẹ là người khai mở thẩm mỹ và tầm nhìn cho bạn, cha mẹ cũng có thể cho bạn những nguồn lực mà nơi khác không có được."}
-{"id": 10033, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, {S2}, {S3}) → ứng với tạng phủ 【thận (thận theo Đông y)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 10033, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, {S2}, {S3}) → ứng với tạng phủ 【thận (thận theo Đông y)】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
 {"id": 10034, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, việc đi xa ra ngoài nhiều sóng gió, nên đề phòng sự cố cực đoan."}
 {"id": 10035, "vi": "{P1} của bạn rơi vào **Phu Thê** ({S1}, {S2} ({B1})) — hôn nhân sẽ ảnh hưởng tương đối lớn đến hậu vận của bạn."}
 {"id": 10036, "vi": "Vòng bạn bè của bạn không lớn nhưng sâu."}
 {"id": 10037, "vi": "Mỗi năm khám sức khỏe toàn diện một lần;"}
-{"id": 10038, "vi": "· [Cách đoán của Thầy Nghê · Chân pháp Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, {S2}, {S3}) → ứng với tạng phủ 【tiểu tràng】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
-{"id": 10039, "vi": "Mệnh nam: Thầy Nghê nói rất thẳng, nguyên văn là “mệnh đàn ông ấy à, người {S1} {H1} ấy, sợ nhất là {S2} {H2}, chính là như vậy mẹ chồng nàng dâu bất hòa, vợ với mẹ nhất định không hòa hợp” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3}), dịch ra lời thường là: {H3} (cản trở) rơi vào {S3} là phiền nhất, mẹ chồng và nàng dâu không hợp nhau, giữa vợ và mẹ nhiều va chạm."}
+{"id": 10038, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Trên toàn lá số, Sát Tinh tương đối tập trung nhất ở {G1} ({S1} {H1}, {S2}, {S3}) → ứng với tạng phủ 【tiểu tràng】 — chân pháp của Thầy Nghê là xem cung xấu nhất, không chỉ riêng một cung Tật Ách;"}
+{"id": 10039, "vi": "Mệnh nam: Thầy Nghê nói rất thẳng, nguyên văn là “mệnh đàn ông ấy à, người {S1} {H1} ấy, sợ nhất là {S2} {H2}, chính là như vậy mẹ chồng nàng dâu bất hòa, vợ với mẹ nhất định không hòa hợp” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3}), dịch ra lời thường là: {H3} (trở ngại) rơi vào {S3} là phiền nhất, mẹ chồng và nàng dâu không hợp nhau, giữa vợ và mẹ nhiều va chạm."}
 {"id": 10040, "vi": "Thầy Nghê nói {P1} có {S1} {S2} là “rất tốt”."}
-{"id": 10041, "vi": "▍**Huynh Đệ tam hợp · Điền Trạch · Điền Trạch**: {S1}, {S2}"}
-{"id": 10042, "vi": "▍**Phu Thê tam hợp · Phúc Đức · Phúc Đức**: {S1}, {S2}"}
-{"id": 10043, "vi": "▍**Tử Nữ đối cung · Điền Trạch · Điền Trạch**: {S1}, {S2}"}
-{"id": 10044, "vi": "▍**Tật Ách tam hợp · Điền Trạch · Điền Trạch**: {S1}, {S2}"}
-{"id": 10045, "vi": "▍**Tài Bạch đối cung · Phúc Đức · Phúc Đức**: {S1}, {S2}"}
-{"id": 10046, "vi": "▍**Thiên Di tam hợp · Phúc Đức · Phúc Đức**: {S1}, {S2}"}
+{"id": 10041, "vi": "▍**Tam Hợp của Huynh Đệ · Điền Trạch · Điền Trạch**: {S1}, {S2}"}
+{"id": 10042, "vi": "▍**Tam Hợp của Phu Thê · Phúc Đức · Phúc Đức**: {S1}, {S2}"}
+{"id": 10043, "vi": "▍**Đối cung của Tử Nữ · Điền Trạch · Điền Trạch**: {S1}, {S2}"}
+{"id": 10044, "vi": "▍**Tam Hợp của Tật Ách · Điền Trạch · Điền Trạch**: {S1}, {S2}"}
+{"id": 10045, "vi": "▍**Đối cung của Tài Bạch · Phúc Đức · Phúc Đức**: {S1}, {S2}"}
+{"id": 10046, "vi": "▍**Tam Hợp của Thiên Di · Phúc Đức · Phúc Đức**: {S1}, {S2}"}
 {"id": 10047, "vi": "Khi {H1} (vào tiền), nhân mạch thật sự mang lại tiền và tin tức, cơ hội thường lọt đến tai bạn trước tiên từ miệng bạn bè."}
 {"id": 10048, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, tình trạng sức khỏe nhiều sóng gió, nên đề phòng sự cố cực đoan."}
 {"id": 10049, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, Long Đức, {S4}, {S5}."}
@@ -692,7 +692,7 @@
 {"id": 10062, "vi": "Bạn không cần vội lập gia đình."}
 {"id": 10063, "vi": "Bạn đừng đợi cha mẹ mở lời."}
 {"id": 10064, "vi": "Bạn bẩm sinh là người thích thay đổi."}
-{"id": 10065, "vi": "Khi {H1} (cản trở), dễ bị người khác lợi dụng nhất, kiểu ăn nhờ ở đậu lâu dài, vay tiền không trả là hao tổn người nhất."}
+{"id": 10065, "vi": "Khi {H1} (trở ngại), dễ bị người khác lợi dụng nhất, kiểu ăn nhờ ở đậu lâu dài, vay tiền không trả là hao tổn người nhất."}
 {"id": 10066, "vi": "Dùng quá đà thì thành áp đặt"}
 {"id": 10067, "vi": "Vòng bạn bè của bạn chín chắn, thực tế."}
 {"id": 10068, "vi": "Bạn không phải là không hợp đi xa."}
@@ -714,5 +714,5 @@
 {"id": 10084, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, tình cảm hôn nhân nhiều sóng gió, nên đề phòng sự cố cực đoan."}
 {"id": 10085, "vi": "Bản lĩnh tụ tiền của bạn nằm ở chữ ổn định."}
 {"id": 10086, "vi": "◆ Cung này gặp nhiều Sát Tinh 【{S1}, {S2}, {S3}】 tụ tập, anh em và hợp tác làm ăn nhiều sóng gió, nên đề phòng sự cố cực đoan."}
-{"id": 10087, "vi": "{H1} (cản trở) thì trong lòng dồn nén đầy thị phi, không tĩnh lại được, cần tìm cách giải tỏa yên tĩnh, ví dụ như thiền định, viết lách, một mình ở giữa thiên nhiên."}
+{"id": 10087, "vi": "{H1} (trở ngại) thì trong lòng dồn nén đầy thị phi, không tĩnh lại được, cần tìm cách giải tỏa yên tĩnh, ví dụ như thiền định, viết lách, một mình ở giữa thiên nhiên."}
 {"id": 10088, "vi": "Chuyện lấy chồng xa phải suy nghĩ cho rõ ràng."}

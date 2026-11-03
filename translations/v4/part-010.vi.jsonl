@@ -478,9 +478,9 @@
 {"id": 4665, "vi": "▸ Giờ kinh lạc vượng: giờ Dậu {N1}-{N2} giờ"}
 {"id": 4666, "vi": "· Thầy Nghê, “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}: “Người sao {S1}, nó là một sao văn quan."}
 {"id": 4667, "vi": "Thu nhập ổn định, chủ yếu dựa vào tiền lương vững chắc và tích lũy lâu dài, làm công việc chính thức thuận tay hơn tự mở cửa làm ăn."}
-{"id": 4668, "vi": "▍**Tam Hợp Quan Lộc · {P1} · {P2}**: {S1} ({B1}), {S2} {H1} ({B2})"}
-{"id": 4669, "vi": "▍**Tam Hợp Tài Bạch · {P1} · {P2}**: {S1} ({B1}), {S2} {H1} ({B2})"}
-{"id": 4670, "vi": "▍**Đối cung Thiên Di · {P1} · {P2}**: {S1} ({B1}), {S2} {H1} ({B2})"}
+{"id": 4668, "vi": "▍**Tam Hợp của Tam Hợp Quan Lộc · {P1} · {P2}**: {S1} ({B1}), {S2} {H1} ({B2})"}
+{"id": 4669, "vi": "▍**Tam Hợp của Tam Hợp Tài Bạch · {P1} · {P2}**: {S1} ({B1}), {S2} {H1} ({B2})"}
+{"id": 4670, "vi": "▍**Đối cung của Đối cung Thiên Di · {P1} · {P2}**: {S1} ({B1}), {S2} {H1} ({B2})"}
 {"id": 4671, "vi": "Hãy cho mẹ thêm chút ấm áp trong lời nói, một câu “mẹ vất vả rồi” có tác dụng hơn những món đồ bạn mua."}
 {"id": 4672, "vi": "Trung tâm thành phố, gần ga tàu điện ngầm, cạnh trường tốt, nắm được một chỗ cũng được, đây là cái gốc của gia sản bạn."}
 {"id": 4673, "vi": "Nhịp độ sinh con, đợi sự nghiệp vững hơn một chút (sau {N1} tuổi) rồi hãy tính thì thong thả hơn."}
@@ -521,9 +521,9 @@
 {"id": 4708, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, {S4}, Thiên Tài, {S5}, {S6}."}
 {"id": 4709, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, Thiên Không."}
 {"id": 4710, "vi": "{S1} {B1}, phúc khí bị giảm, chủ nghĩa hưởng lạc dễ dẫn đến không tiến ắt lùi, cần cố ý khắc phục sự lười biếng, tự thúc ép bản thân vừa phải."}
-{"id": 4711, "vi": "▍**Tam Hợp Giao Hữu · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1}), {S2} {H1} ({B2})"}
-{"id": 4712, "vi": "▍**Tam Hợp Tử Nữ · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1}), {S2} {H1} ({B2})"}
-{"id": 4713, "vi": "▍**Đối cung Tật Ách · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1}), {S2} {H1} ({B2})"}
+{"id": 4711, "vi": "▍**Tam Hợp của Tam Hợp Giao Hữu · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1}), {S2} {H1} ({B2})"}
+{"id": 4712, "vi": "▍**Tam Hợp của Tam Hợp Tử Nữ · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1}), {S2} {H1} ({B2})"}
+{"id": 4713, "vi": "▍**Đối cung của Đối cung Tật Ách · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1}), {S2} {H1} ({B2})"}
 {"id": 4714, "vi": "{S1} + {S2}, chủ về kho tiền vững chắc + đội nhóm trợ lực — là cách giàu vững vàng kinh điển."}
 {"id": 4715, "vi": "*{P1} của bạn ngoài Chính Tinh “{S1}” còn có đồng tọa: {S2}, {S3}, Thiên Tài, {S4}, {S5}, {S6}."}
 {"id": 4716, "vi": "Khuyên bạn mỗi năm định kỳ khám sức khỏe."}

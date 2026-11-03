@@ -18,9 +18,9 @@
 {"id": 3678, "vi": "· **{S1} gặp {S2}** — “Toàn Thư · Hỏi về {S3}” nói {S4} “trong mười hai cung chỉ có Thân Mệnh, Điền Trạch, Tài Bạch là quan trọng, chủ giàu”."}
 {"id": 3679, "vi": "◆ Cung này gặp 【{S1}】 (bốc đồng, dễ tranh chấp), tổng quan mệnh cách có chút trở lực, cần nhìn thấu rồi mới quyết định."}
 {"id": 3680, "vi": "◆ Cung này gặp 【{S1}】 (bốc đồng, dễ tranh chấp), đặc điểm tính cách có chút trở lực, cần nhìn thấu rồi mới quyết định."}
-{"id": 3681, "vi": "▍**Phu Thê tam hợp · Phúc Đức · Phúc Đức**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3682, "vi": "▍**Tài Bạch đối cung · Phúc Đức · Phúc Đức**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3683, "vi": "▍**Thiên Di tam hợp · Phúc Đức · Phúc Đức**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3681, "vi": "▍**Tam Hợp của Phu Thê · Phúc Đức · Phúc Đức**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3682, "vi": "▍**Đối cung của Tài Bạch · Phúc Đức · Phúc Đức**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3683, "vi": "▍**Tam Hợp của Thiên Di · Phúc Đức · Phúc Đức**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3684, "vi": "◆ Cung này gặp 【{S1}】 (trì hoãn, trở trệ), tình cảm hôn nhân có chút trở lực, cần nhìn thấu rồi mới quyết định."}
 {"id": 3685, "vi": "🔴 **{S1} {H1}** (rơi vào Tài Bạch · tam hợp của cung Quan Lộc của bạn)"}
 {"id": 3686, "vi": "🔴 **{S1} {H1}** (rơi vào Tài Bạch · đối cung của cung Phúc Đức của bạn)"}
@@ -84,9 +84,9 @@
 {"id": 3744, "vi": "· **{S1} {B1} tọa Mệnh** — cách phản ứng chia làm hai loại: ví dụ nam mệnh mà Thầy Nghê giảng là không bộc phát trước mặt, dồn nén trong lòng mà phản kháng tiêu cực;"}
 {"id": 3745, "vi": "{P1} có {S1}, bạn bè phần nhiều thuộc kiểu dịu dàng tinh tế, đặc biệt hợp duyên với bạn bè nữ, vòng giao tiếp giàu tình cảm, thường có tri kỷ có thể trải lòng;"}
 {"id": 3746, "vi": "Sau bốn mươi lăm tuổi hãy chủ động sắp xếp cho hai cụ khám sức khỏe mỗi năm một lần, có vấn đề thì làm theo lời bác sĩ."}
-{"id": 3747, "vi": "▍**Quan Lộc đối cung · Phu Thê · Phu Thê**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3748, "vi": "▍**Phúc Đức tam hợp · Phu Thê · Phu Thê**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3749, "vi": "▍**Thiên Di tam hợp · Phu Thê · Phu Thê**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3747, "vi": "▍**Đối cung của Quan Lộc · Phu Thê · Phu Thê**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3748, "vi": "▍**Tam Hợp của Phúc Đức · Phu Thê · Phu Thê**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3749, "vi": "▍**Tam Hợp của Thiên Di · Phu Thê · Phu Thê**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3750, "vi": "· **{S1} văn võ song toàn, vừa văn vừa võ** — Thầy Nghê: trong các sao chỉ có một mình {S2} là vừa văn vừa võ, làm quan văn hay quan võ đều được;"}
 {"id": 3751, "vi": "◆ Cung này gặp 【{S1}】 (bốc đồng, dễ tranh chấp), sự nghiệp, nghề nghiệp có chút trở lực, cần nhìn thấu rồi mới quyết định."}
 {"id": 3752, "vi": "Thỉnh thoảng hãy tìm họ trò chuyện về việc mình đang làm gần đây, khi họ nói lời khó nghe thì đừng vội giải thích."}
@@ -110,15 +110,15 @@
 {"id": 3770, "vi": "{S1} ở Tật Ách, sách cổ chỉ nói {B1} thì ít tai họa;"}
 {"id": 3771, "vi": "Để dành tiền thì dựa vào quy tắc chứ đừng dựa vào nhịn: mỗi tháng cố định chuyển một khoản vào tài khoản riêng, phần còn lại thì tiêu thoải mái."}
 {"id": 3772, "vi": "Sức khỏe của bạn gắn rất chặt với cảm xúc: lòng tự trọng cao, hễ gặp thất bại là dồn nén hết áp lực trong lòng, thứ không chịu nổi đầu tiên là giấc ngủ."}
-{"id": 3773, "vi": "▍**Giao Hữu tam hợp · Tử Nữ · Tử Nữ**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3774, "vi": "▍**Phụ Mẫu tam hợp · Tử Nữ · Tử Nữ**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3775, "vi": "▍**Điền Trạch đối cung · Tử Nữ · Tử Nữ**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3773, "vi": "▍**Tam Hợp của Giao Hữu · Tử Nữ · Tử Nữ**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3774, "vi": "▍**Tam Hợp của Phụ Mẫu · Tử Nữ · Tử Nữ**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3775, "vi": "▍**Đối cung của Điền Trạch · Tử Nữ · Tử Nữ**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3776, "vi": "Sách cổ nói {S1} ở Tật Ách chủ thuở nhỏ có tai họa, mụn nhọt, bệnh ở lưng và chân;"}
 {"id": 3777, "vi": "Nhưng ra ngoài có mấy điều phải giữ: ít đến chốn ăn chơi về đêm, uống rượu đến bảy phần thì dừng, đừng ở riêng với người khác giới không quen thân đến khuya."}
 {"id": 3778, "vi": "Ở nơi khác mà bàn chuyện ký hợp đồng, bảo lãnh, hợp tác có vùng xám thì nhất loạt hãy tạm gác lại, về tìm người trong nghề xem qua rồi hãy tính."}
-{"id": 3779, "vi": "▍**Huynh Đệ đối cung · Giao Hữu · Nô Bộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3780, "vi": "▍**Tử Nữ tam hợp · Giao Hữu · Nô Bộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3781, "vi": "▍**Phụ Mẫu tam hợp · Giao Hữu · Nô Bộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3779, "vi": "▍**Đối cung của Huynh Đệ · Giao Hữu · Nô Bộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3780, "vi": "▍**Tam Hợp của Tử Nữ · Giao Hữu · Nô Bộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3781, "vi": "▍**Tam Hợp của Phụ Mẫu · Giao Hữu · Nô Bộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3782, "vi": "Nguyên văn thiên Thê Thiếp trong “Toàn Thư”: {S1} “hung, cưới vợ rồi vì vợ mà mất sản nghiệp”, {S2} “thêm Kình Đà Hỏa Linh thì chủ sinh ly”;"}
 {"id": 3783, "vi": "Nam mệnh: Thầy Nghê nói “đàn ông mà có cách Cự Nhật thì đại phú đại quý”, “rất biết ăn nói, khéo mồm khéo miệng”."}
 {"id": 3784, "vi": "{S1} {S2} cùng tọa {P1}, một sáng một tối, cần mấy cung bên cạnh đưa Cát Tinh và vận tốt đến thì mới thành đại khí."}
@@ -151,11 +151,11 @@
 {"id": 3811, "vi": "Mỗi tuần cố định giữ lại một bữa cơm chỉ có người trong nhà, một khi gia đình chỉ còn những buổi tụ tập, vết nứt tình cảm sẽ lớn dần từng chút, đến khi phát hiện thì đã muộn."}
 {"id": 3812, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Sát Tinh trong toàn lá số tập trung tương đối nhiều nhất ở {G1} ({S1} {H1}, {S2}) → tạng phủ tương ứng 【dạ dày】 — phép chân truyền của Thầy Nghê xem cung xấu nhất, không chỉ xem riêng cung Tật Ách;"}
 {"id": 3813, "vi": "Con có tài ăn nói, thích tranh luận, đầu óc nhanh nhạy, “từ nhỏ đã biết cãi lại cha mẹ” là chuyện thường, nghĩa là tuổi còn nhỏ đã nói lý hơn được người lớn;"}
-{"id": 3814, "vi": "▍**Phu Thê đối cung · Quan Lộc · Quan Lộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3815, "vi": "▍**Tài Bạch tam hợp · Quan Lộc · Quan Lộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3816, "vi": "▍**Giao Hữu tam hợp · Phụ Mẫu · Phụ Mẫu**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3817, "vi": "▍**Tử Nữ tam hợp · Phụ Mẫu · Phụ Mẫu**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3818, "vi": "▍**Tật Ách đối cung · Phụ Mẫu · Phụ Mẫu**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3814, "vi": "▍**Đối cung của Phu Thê · Quan Lộc · Quan Lộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3815, "vi": "▍**Tam Hợp của Tài Bạch · Quan Lộc · Quan Lộc**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3816, "vi": "▍**Tam Hợp của Giao Hữu · Phụ Mẫu · Phụ Mẫu**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3817, "vi": "▍**Tam Hợp của Tử Nữ · Phụ Mẫu · Phụ Mẫu**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3818, "vi": "▍**Đối cung của Tật Ách · Phụ Mẫu · Phụ Mẫu**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3819, "vi": "Ngoài ra cơ quan nhà nước, công việc công cộng, truyền thông và vị trí quản lý, phàm là những công việc cần “hình ảnh trước công chúng” đều là sân khấu của {S1}."}
 {"id": 3820, "vi": "“Toàn Thư” nói {S1} khi {B1} (sao có lực mạnh) thì tiền bạc rủng rỉnh, khi {B2} (lực yếu) thì vất vả, không thuận;"}
 {"id": 3821, "vi": "· “Toàn Thư · quyển 2 · mục 7 Thiên Di”: “{S1} ra ngoài lao tâm không yên, với người thì không đủ, nhiều thị phi, thêm Kình Đà Hỏa Linh Không Kiếp thì càng nặng.”"}
@@ -179,18 +179,18 @@
 {"id": 3839, "vi": "· “Toàn Thư · quyển 2 · mục 7 Thiên Di”: “{S1} ra ngoài gần người quý, được quý nhân giúp thành tựu, cùng {S2} thì phúc dày, cùng {S3} thì đi theo con đường nghệ thuật.”"}
 {"id": 3840, "vi": "{P1} có {S1}, “Toàn Thư” nói “{S2} {B1} vượng thì có tổ nghiệp”, nghĩa là {B2} (lực mạnh) thì có sản nghiệp do tổ tiên truyền lại;"}
 {"id": 3841, "vi": "Thầy Nghê gọi {S1} là sao nhân hòa, ý nói sao này khiến người ta có nhân duyên tốt, hợp hùn hạp, cùng làm việc với người khác là lúc thể hiện sở trường rõ nhất."}
-{"id": 3842, "vi": "▍**{P1} tam hợp · Quan Lộc · Quan Lộc**: {S1}, {S2} ({B1})"}
+{"id": 3842, "vi": "▍**Tam Hợp của {P1} · Quan Lộc · Quan Lộc**: {S1}, {S2} ({B1})"}
 {"id": 3843, "vi": "Người {S1} tọa Mệnh sợ nhất là cảm xúc bị ảnh hưởng: mặt trăng có lúc tỏ lúc mờ, lúc tròn lúc khuyết, cảm xúc cũng lên xuống theo, cần tìm ra cách giúp mình ổn định lại."}
 {"id": 3844, "vi": "{P1} có {S1}, con thanh tú dịu dàng, tình cảm tinh tế, quan hệ tốt với cha mẹ, cha mẹ con cái hòa thuận, thuộc kiểu “biết làm nũng”."}
 {"id": 3845, "vi": "Nếu thêm {S1}, {S2}, {S3}, {S4}, {S5}, {S6}, thì cả đời càng có thành có bại, tiền đến tiền đi, rất khó tích giữ lâu dài."}
 {"id": 3846, "vi": "(★Hiệu khám {N1}-{N2}-{N3}: nguồn cũ ghi “Cốt Tủy Phú” tra không thấy, căn cứ mục {S1} trong “Chư Tinh Vấn Đáp Luận” của thiện bản mà đính chính)"}
-{"id": 3847, "vi": "▍**Quan Lộc tam hợp · Tài Bạch · Tài Bạch**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3848, "vi": "▍**Phúc Đức đối cung · Tài Bạch · Tài Bạch**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3847, "vi": "▍**Tam Hợp của Quan Lộc · Tài Bạch · Tài Bạch**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3848, "vi": "▍**Đối cung của Phúc Đức · Tài Bạch · Tài Bạch**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3849, "vi": "“Toàn Thư” đối với {S1} {S2} ở Mão Dậu thì khen chê mỗi bên một nửa."}
 {"id": 3850, "vi": "Về tình cảm có nhiều vướng víu Đào Hoa, phải đề phòng rượu chè sắc dục làm hỏng việc."}
-{"id": 3851, "vi": "▍**Huynh Đệ tam hợp · Tật Ách · Tật Ách**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3852, "vi": "▍**Phụ Mẫu đối cung · Tật Ách · Tật Ách**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3853, "vi": "▍**Điền Trạch tam hợp · Tật Ách · Tật Ách**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3851, "vi": "▍**Tam Hợp của Huynh Đệ · Tật Ách · Tật Ách**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3852, "vi": "▍**Đối cung của Phụ Mẫu · Tật Ách · Tật Ách**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3853, "vi": "▍**Tam Hợp của Điền Trạch · Tật Ách · Tật Ách**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3854, "vi": "· “{S1} Đẩu Số Toàn Thư · quyển 2 · Nô Bộc” mục {S2}: “{S3} thì nô bộc nhiều, vượng chủ, {S4} đồng cung thì có nô bộc bảo vệ nhà, {S5} đồng cung thì không một lòng.”"}
 {"id": 3855, "vi": "{S1} + {S2}, chủ Đào Hoa + quan hệ rộng — năng lực giao tế cực mạnh, công việc thuộc loại tiếp khách, quan hệ công chúng, bán hàng là tốt nhất."}
 {"id": 3856, "vi": "{S1} {S2} đồng cung chỉ ở Mão, Dậu, không ở Hợi, Tý, không thể hễ thấy {S3} là nói tình cảm có nhiều cám dỗ."}
@@ -199,12 +199,12 @@
 {"id": 3859, "vi": "Niềm vui của bạn rất phụ thuộc vào sự công nhận của người khác: khi được khẳng định thì cả người như sáng bừng lên, ở một mình thì dễ hoài nghi bản thân."}
 {"id": 3860, "vi": "Ban ngày trước mặt mọi người bạn gọn gàng dứt khoát, nói một là một, đêm về lặng yên lại dễ bật ra một câu “mình đã có được gì”."}
 {"id": 3861, "vi": "{S1} + {S2}, chủ khẩu thiệt kéo dài — một lần cãi nhau có thể kéo dài nhiều năm, nên chủ động hòa giải."}
-{"id": 3862, "vi": "▍**Giao Hữu đối cung · Huynh Đệ · Huynh Đệ**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3863, "vi": "▍**Điền Trạch tam hợp · Huynh Đệ · Huynh Đệ**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3864, "vi": "▍**Tật Ách tam hợp · Huynh Đệ · Huynh Đệ**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3862, "vi": "▍**Đối cung của Giao Hữu · Huynh Đệ · Huynh Đệ**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3863, "vi": "▍**Tam Hợp của Điền Trạch · Huynh Đệ · Huynh Đệ**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3864, "vi": "▍**Tam Hợp của Tật Ách · Huynh Đệ · Huynh Đệ**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3865, "vi": "Chuyện tình cảm của bạn bắt đầu hơi muộn, kết hôn muộn một chút thì càng dễ đi lâu dài, bạn cần thời gian đủ dài mới dám xác định một người."}
 {"id": 3866, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (dây dưa mài mòn · tổn hại ngầm), Thiên Không (hao tổn hư không)】 hung chiếu phát tác (không có {S3} để giải) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
-{"id": 3867, "vi": "▍**{P1} đối cung · Thiên Di · Thiên Di**: {S1}, {S2} ({B1})"}
+{"id": 3867, "vi": "▍**Đối cung của {P1} · Thiên Di · Thiên Di**: {S1}, {S2} ({B1})"}
 {"id": 3868, "vi": "Sức khỏe và tâm trạng của bạn về cơ bản là một, những lúc tức giận, uất ức, tình cảm bị tổn thương thì người suy sụp đi rất nhanh."}
 {"id": 3869, "vi": "Người này đứng vững được ngoài xã hội, có thể làm ở những vị trí như cơ quan nhà nước, trường học hoặc truyền thông."}
 {"id": 3870, "vi": "Nhưng cũng chính mục ấy chừa lại đường lui: đồng cung với {S1} lại thêm Cát Tinh thì là “không hình khắc”, nghĩa là sẽ không có tình trạng cản trở lẫn nhau như thế;"}
@@ -247,7 +247,7 @@
 {"id": 3907, "vi": "Thầy Nghê nói {S1} là sao quan văn, cũng là sao dạy học, nhiều người {S2} tọa Mệnh đi làm công chức, làm giáo viên, thậm chí làm cả hai."}
 {"id": 3908, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (không vong), {S3} (nóng nảy · đột phát), {S4} (lưỡi dao · huyết quang)】 hung chiếu phát tác (không có {S5} để giải) (thuật ngữ trên mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
 {"id": 3909, "vi": "Mục {S1} phần Tật Ách quyển 2 “Toàn Thư” nói “ở hãm cung cũng chủ bệnh mắt, thiếu sáng”, Thầy Nghê cũng giảng “mắt trái là {S2}, mắt phải là {S3} đó”."}
-{"id": 3910, "vi": "▍**{P1} tam hợp · Tài Bạch · Tài Bạch**: {S1}, {S2} ({B1})"}
+{"id": 3910, "vi": "▍**Tam Hợp của {P1} · Tài Bạch · Tài Bạch**: {S1}, {S2} ({B1})"}
 {"id": 3911, "vi": "“Toàn Thư” nói “{S1} {S2} tọa Mệnh ở cung {B1}”, ý nói hai sao tọa Mệnh ở vị trí có lực mạnh."}
 {"id": 3912, "vi": "· “{S1} Đẩu Số Toàn Thư · quyển 2 · mục 3 Thê Thiếp”: “{S2} cưới muộn thì sống hòa thuận đến già, tính cứng, {S3} đồng cung thì sống đến già, {S4} đồng cung thì lấy người ít tuổi, {S5} đồng cung thì hình khắc, thêm Kình Đà Hỏa Linh cũng hình khắc, {S6} đồng cung có Cát Tinh thì tránh được hình khắc”"}
 {"id": 3913, "vi": "· [Cách đoán của Thầy Nghê · phép chân truyền về Tật Ách] Sát Tinh trong toàn lá số tập trung tương đối nhiều nhất ở {G1} ({S1}, {S2}) → tạng phủ tương ứng 【bàng quang】 — phép chân truyền của Thầy Nghê xem cung xấu nhất, không chỉ xem riêng cung Tật Ách;"}
@@ -266,9 +266,9 @@
 {"id": 3926, "vi": "Họ phần nhiều đôn hậu, có uy nghiêm, xung đột với bạn không nhiều, sức căng thực sự là bạn luôn muốn làm được đúng như họ kỳ vọng."}
 {"id": 3927, "vi": "· **{S1} còn gọi là “Thực Thần”** — Thầy Nghê: trong xem mệnh {S2} còn gọi là “Thực Thần”, chủ lộc ăn uống, ẩm thực và tiếp khách;"}
 {"id": 3928, "vi": "Nên tìm người cộng sự kiểu thực thi để bắt buộc thực hiện đến nơi đến chốn."}
-{"id": 3929, "vi": "▍**Quan Lộc tam hợp · {P1} · {P2}**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3930, "vi": "▍**Tài Bạch tam hợp · {P1} · {P2}**: {S1} {H1} ({B1}), {S2} ({B2})"}
-{"id": 3931, "vi": "▍**Thiên Di đối cung · {P1} · {P2}**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3929, "vi": "▍**Tam Hợp của Quan Lộc · {P1} · {P2}**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3930, "vi": "▍**Tam Hợp của Tài Bạch · {P1} · {P2}**: {S1} {H1} ({B1}), {S2} ({B2})"}
+{"id": 3931, "vi": "▍**Đối cung của Thiên Di · {P1} · {P2}**: {S1} {H1} ({B1}), {S2} ({B2})"}
 {"id": 3932, "vi": "Phần tài lộc này là của cha mẹ, không có nghĩa là bản thân bạn nhận được tổ nghiệp"}
 {"id": 3933, "vi": "Đồng cung với {S1} thì là “văn nhân không bền lâu, làm lại viên là đẹp nhất”, nghĩa là làm thuần văn chức thì ngồi không lâu, trái lại công việc sự vụ thực tế là hợp nhất."}
 {"id": 3934, "vi": "Lúc tỏa sáng nhất không phải là cắm cúi thực thi, mà là bày mưu tính kế, định phương hướng, làm tham mưu cho người khác."}

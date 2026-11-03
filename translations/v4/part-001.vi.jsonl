@@ -138,8 +138,8 @@
 {"id": 498, "vi": "· “{S1} Đẩu Số Toàn Thư” quyển 2 · 12. Phụ Mẫu (mục {S2}, mục {S3}, mục {S4}): “{S5} đồng cung không có Tứ Sát thì cha mẹ song toàn” “{S6} đồng cung thì khắc muộn, thêm Tứ Sát, Không Kiếp thì cũng khắc sớm” “{S7} đồng cung thì ít hòa thuận”"}
 {"id": 499, "vi": "{S1} {B1} thì người cao lớn béo mập, ở cung hãm thì người nhỏ tiếng to mà độ lượng lớn, tính cách thất thường, lòng nhiều tính toán, làm việc gấp gáp không chịu yên, khéo quá hóa vụng, ham cờ bạc, rượu chè trăng hoa.”"}
 {"id": 500, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · 8. Nô Bộc”: “{S2} đắc lực, vượng tướng, {S3} trước khó sau dễ, {S4} đồng cung thì đắc lực, {S5} đồng cung thì giúp chủ, thêm Kình Đà, Hỏa Linh thì có kẻ dưới phản chủ, nếu gặp Không Kiếp thì oán chủ mà bỏ đi.”"}
-{"id": 501, "vi": "▍**{P1} tam hợp · Tài Bạch · Tài Bạch**: {S1} ({B1}), {S2} ({B2})"}
-{"id": 502, "vi": "▍**{P1} tam hợp · Quan Lộc · Quan Lộc**: {S1} ({B1}), {S2} ({B2})"}
+{"id": 501, "vi": "▍**Tam Hợp của {P1} · Tài Bạch · Tài Bạch**: {S1} ({B1}), {S2} ({B2})"}
+{"id": 502, "vi": "▍**Tam Hợp của {P1} · Quan Lộc · Quan Lộc**: {S1} ({B1}), {S2} ({B2})"}
 {"id": 503, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · 8. Nô Bộc”: “{S2} {B1} vượng thì chủ phát đạt, ở cung hãm thì không có phần, có cũng oán chủ, sẽ bỏ đi, {S3} đồng cung thì chiêu được nhiều, {S4} đồng cung thì có nhiều nhưng chuốc oán, thêm Kình Đà, Hỏa Linh thì kẻ dưới phản chủ.”"}
 {"id": 504, "vi": "· “Toàn Thư · Quyển 2 · 10. Điền Trạch”: “{S1} thoái tổ nghiệp, tự tạo dựng mới, {S2} đồng cung tại {G1} có điền trang, tại {G2} không giữ được tổ nghiệp, trước lớn sau nhỏ, {S3} đồng cung thì có tạo dựng, về già giàu có, {S4} đồng cung thì tự tạo dựng, vượng tướng.”"}
 {"id": 505, "vi": "“{S1} Đẩu Số Toàn Thư · Quyển 3 · Luận Chư Tinh Đồng Viên”, cùng câu này có chú thích gốc “Mệnh ở Dần Thân mới luận, thêm cát thì không luận, không cát không sát cũng chỉ là người bình thường”, câu cuối của chú thích gốc còn xếp hung sát, Không Kiếp và Kỵ tinh vào hạ cách;"}
@@ -154,7 +154,7 @@
 {"id": 514, "vi": "✦ **{S1}**: anh em bôn ba bận rộn, hợp tác phần nhiều là mảng kinh doanh năng động."}
 {"id": 515, "vi": "⭐ **{S1} nhập Mệnh**: {S2} tọa Mệnh — “Toàn Thư” nói {S3} “hóa khí là Hình”, tính cách bốc đồng, làm việc quả quyết nhưng dễ chuốc thị phi."}
 {"id": 516, "vi": "Thầy Nghê giảng Sát Tinh phải phân Miếu Hãm: “còn nếu {B1} thì Sát Tinh này, ngược lại sẽ biến thành Cát Tinh” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3})."}
-{"id": 517, "vi": "▍**{P1} đối cung · Thiên Di · Thiên Di**: {S1} ({B1}), {S2} ({B2})"}
+{"id": 517, "vi": "▍**Đối cung của {P1} · Thiên Di · Thiên Di**: {S1} ({B1}), {S2} ({B2})"}
 {"id": 518, "vi": "{H1} chủ huyết quang, “Toàn Thư” nói {S1} “gặp Hình Kỵ thì không tránh khỏi mủ máu”."}
 {"id": 519, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · {P1}”: “{S2} thuộc Kim, thuộc Bắc Đẩu, hóa khí là Tài, là chủ Tài Bạch” (★Hiệu khám {N1}-{N2}-{N3}: câu trích gốc [{S3} là chủ Tài Bạch, hóa khí gọi là Tài] đối chiếu toàn văn thiện bản trên Wikisource không thấy, đổi sang trích nguyên văn)"}
 {"id": 520, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · {P1}” mục {H1}: “sao {H2} thuộc Thổ, là thần Phúc Đức, thủ ở vị trí Thân, Mệnh, Quan Lộc, gặp Khoa Quyền ắt làm chức đại thần”"}
@@ -173,21 +173,21 @@
 {"id": 533, "vi": "· “Toàn Thư” quyển 2 · 4. Tử Nữ: “{S1} chủ một con, hoặc phần nhiều là sinh ra rồi mới thành, {S2} đồng cung thì chủ hình khắc, chỉ có một người, thêm Kình Đà, Hỏa Linh, Không Kiếp thì tuyệt tự, {S3} muộn mới có hai con, {S4} đồng cung thì trước nhận con người ngoài, sau tự sinh một con, {S5} đồng cung thì chủ cô độc hoặc có con bị thương tật.”"}
 {"id": 534, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · {P1}” mục {H1}: “Khẩu quyết cát hung khi {H2} vào mệnh nữ:”"}
 {"id": 535, "vi": "chững chạc thận trọng, lòng từ ngay thẳng, có cơ biến, học nhiều biết nhiều, Mệnh gặp thì chủ phú quý, văn nhân có danh tiếng, ở các cung thì giáng phúc tiêu tai, gặp các sát thì bỏ tổ, bái cha mẹ khác.”"}
-{"id": 536, "vi": "▍**Huynh Đệ đối cung · Giao Hữu · Nô Bộc**: {S1} ({B1})"}
-{"id": 537, "vi": "▍**Tử Nữ tam hợp · Giao Hữu · Nô Bộc**: {S1} ({B1})"}
-{"id": 538, "vi": "▍**Phụ Mẫu tam hợp · Giao Hữu · Nô Bộc**: {S1} ({B1})"}
+{"id": 536, "vi": "▍**Đối cung của Huynh Đệ · Giao Hữu · Nô Bộc**: {S1} ({B1})"}
+{"id": 537, "vi": "▍**Tam Hợp của Tử Nữ · Giao Hữu · Nô Bộc**: {S1} ({B1})"}
+{"id": 538, "vi": "▍**Tam Hợp của Phụ Mẫu · Giao Hữu · Nô Bộc**: {S1} ({B1})"}
 {"id": 539, "vi": "▶ {B1}, tài vận lên xuống, cảm xúc dao động lớn, cần chủ động điều chỉnh tâm thái, tránh bi quan tiêu cực."}
 {"id": 540, "vi": "**Lộc Mã Giao Trì** — Tam Phương Tứ Chính của {P1} của bạn gặp {S1} và {S2}."}
-{"id": 541, "vi": "▍**Giao Hữu tam hợp · Tử Nữ · Tử Nữ**: {S1} ({B1})"}
-{"id": 542, "vi": "▍**Phụ Mẫu tam hợp · Tử Nữ · Tử Nữ**: {S1} ({B1})"}
-{"id": 543, "vi": "▍**Điền Trạch đối cung · Tử Nữ · Tử Nữ**: {S1} ({B1})"}
-{"id": 544, "vi": "▍**Quan Lộc tam hợp · Tài Bạch · Tài Bạch**: {S1} ({B1})"}
-{"id": 545, "vi": "▍**Phúc Đức đối cung · Tài Bạch · Tài Bạch**: {S1} ({B1})"}
+{"id": 541, "vi": "▍**Tam Hợp của Giao Hữu · Tử Nữ · Tử Nữ**: {S1} ({B1})"}
+{"id": 542, "vi": "▍**Tam Hợp của Phụ Mẫu · Tử Nữ · Tử Nữ**: {S1} ({B1})"}
+{"id": 543, "vi": "▍**Đối cung của Điền Trạch · Tử Nữ · Tử Nữ**: {S1} ({B1})"}
+{"id": 544, "vi": "▍**Tam Hợp của Quan Lộc · Tài Bạch · Tài Bạch**: {S1} ({B1})"}
+{"id": 545, "vi": "▍**Đối cung của Phúc Đức · Tài Bạch · Tài Bạch**: {S1} ({B1})"}
 {"id": 546, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (âm hỏa · khắc ngầm)】 hung chiếu phát tác (dù đồng cung với {S3} cũng không giải được, đừng tưởng nhầm là Cát Tinh giải được) (thuật ngữ mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
-{"id": 547, "vi": "▍**Phu Thê tam hợp · Thiên Di · Thiên Di**: {S1} ({B1})"}
-{"id": 548, "vi": "▍**Phúc Đức tam hợp · Thiên Di · Thiên Di**: {S1} ({B1})"}
-{"id": 549, "vi": "▍**Phu Thê đối cung · Quan Lộc · Quan Lộc**: {S1} ({B1})"}
-{"id": 550, "vi": "▍**Tài Bạch tam hợp · Quan Lộc · Quan Lộc**: {S1} ({B1})"}
+{"id": 547, "vi": "▍**Tam Hợp của Phu Thê · Thiên Di · Thiên Di**: {S1} ({B1})"}
+{"id": 548, "vi": "▍**Tam Hợp của Phúc Đức · Thiên Di · Thiên Di**: {S1} ({B1})"}
+{"id": 549, "vi": "▍**Đối cung của Phu Thê · Quan Lộc · Quan Lộc**: {S1} ({B1})"}
+{"id": 550, "vi": "▍**Tam Hợp của Tài Bạch · Quan Lộc · Quan Lộc**: {S1} ({B1})"}
 {"id": 551, "vi": "◇ **{S1} ở Huynh Đệ**: chị em gái hoặc anh chị em là nữ có quý khí"}
 {"id": 552, "vi": "◇ **{S1} ở Tử Nữ**: con gái có quý khí hoặc hậu bối nữ trợ lực"}
 {"id": 553, "vi": "◇ **{S1} ở Phúc Đức**: về tinh thần thường được phụ nữ lớn tuổi khai mở"}
@@ -199,29 +199,29 @@
 {"id": 559, "vi": "✦ **{S1}**: người phối ngẫu quản lý tài chính vững vàng, hôn nhân lấy ổn định làm chính."}
 {"id": 560, "vi": "Thầy Nghê nói “vậy thì nếu {P1} ở Quan Lộc, người đó tự nhiên sẽ đến chỗ Quan Lộc mà làm quan” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3})."}
 {"id": 561, "vi": "✦ **{S1}**: về mặt tinh thần theo đuổi cái đẹp và trải nghiệm cảm tính."}
-{"id": 562, "vi": "▍**Huynh Đệ tam hợp · Tật Ách · Tật Ách**: {S1} ({B1})"}
-{"id": 563, "vi": "▍**Phụ Mẫu đối cung · Tật Ách · Tật Ách**: {S1} ({B1})"}
-{"id": 564, "vi": "▍**Điền Trạch tam hợp · Tật Ách · Tật Ách**: {S1} ({B1})"}
+{"id": 562, "vi": "▍**Tam Hợp của Huynh Đệ · Tật Ách · Tật Ách**: {S1} ({B1})"}
+{"id": 563, "vi": "▍**Đối cung của Phụ Mẫu · Tật Ách · Tật Ách**: {S1} ({B1})"}
+{"id": 564, "vi": "▍**Tam Hợp của Điền Trạch · Tật Ách · Tật Ách**: {S1} ({B1})"}
 {"id": 565, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · {P1}” mục {S2}: “{S3} thuộc Thủy, thuộc cả Nam Bắc Đẩu, hóa khí là Phú, là sao mẹ, lại là sao vợ, là chủ Điền Trạch.”"}
-{"id": 566, "vi": "▍**Phu Thê tam hợp · Phúc Đức · Phúc Đức**: {S1} ({B1})"}
-{"id": 567, "vi": "▍**Tài Bạch đối cung · Phúc Đức · Phúc Đức**: {S1} ({B1})"}
-{"id": 568, "vi": "▍**Thiên Di tam hợp · Phúc Đức · Phúc Đức**: {S1} ({B1})"}
-{"id": 569, "vi": "▍**Quan Lộc đối cung · Phu Thê · Phu Thê**: {S1} ({B1})"}
-{"id": 570, "vi": "▍**Phúc Đức tam hợp · Phu Thê · Phu Thê**: {S1} ({B1})"}
-{"id": 571, "vi": "▍**Thiên Di tam hợp · Phu Thê · Phu Thê**: {S1} ({B1})"}
-{"id": 572, "vi": "▍**Huynh Đệ tam hợp · Điền Trạch · Điền Trạch**: {S1} ({B1})"}
-{"id": 573, "vi": "▍**Tử Nữ đối cung · Điền Trạch · Điền Trạch**: {S1} ({B1})"}
-{"id": 574, "vi": "▍**Tật Ách tam hợp · Điền Trạch · Điền Trạch**: {S1} ({B1})"}
-{"id": 575, "vi": "▍**Giao Hữu tam hợp · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1})"}
-{"id": 576, "vi": "▍**Tử Nữ tam hợp · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1})"}
-{"id": 577, "vi": "▍**Tật Ách đối cung · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1})"}
-{"id": 578, "vi": "▍**Quan Lộc tam hợp · {P1} · {P2}**: {S1} ({B1})"}
-{"id": 579, "vi": "▍**Tài Bạch tam hợp · {P1} · {P2}**: {S1} ({B1})"}
-{"id": 580, "vi": "▍**Thiên Di đối cung · {P1} · {P2}**: {S1} ({B1})"}
+{"id": 566, "vi": "▍**Tam Hợp của Phu Thê · Phúc Đức · Phúc Đức**: {S1} ({B1})"}
+{"id": 567, "vi": "▍**Đối cung của Tài Bạch · Phúc Đức · Phúc Đức**: {S1} ({B1})"}
+{"id": 568, "vi": "▍**Tam Hợp của Thiên Di · Phúc Đức · Phúc Đức**: {S1} ({B1})"}
+{"id": 569, "vi": "▍**Đối cung của Quan Lộc · Phu Thê · Phu Thê**: {S1} ({B1})"}
+{"id": 570, "vi": "▍**Tam Hợp của Phúc Đức · Phu Thê · Phu Thê**: {S1} ({B1})"}
+{"id": 571, "vi": "▍**Tam Hợp của Thiên Di · Phu Thê · Phu Thê**: {S1} ({B1})"}
+{"id": 572, "vi": "▍**Tam Hợp của Huynh Đệ · Điền Trạch · Điền Trạch**: {S1} ({B1})"}
+{"id": 573, "vi": "▍**Đối cung của Tử Nữ · Điền Trạch · Điền Trạch**: {S1} ({B1})"}
+{"id": 574, "vi": "▍**Tam Hợp của Tật Ách · Điền Trạch · Điền Trạch**: {S1} ({B1})"}
+{"id": 575, "vi": "▍**Tam Hợp của Giao Hữu · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1})"}
+{"id": 576, "vi": "▍**Tam Hợp của Tử Nữ · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1})"}
+{"id": 577, "vi": "▍**Đối cung của Tật Ách · Phụ Mẫu · Phụ Mẫu**: {S1} ({B1})"}
+{"id": 578, "vi": "▍**Tam Hợp của Quan Lộc · {P1} · {P2}**: {S1} ({B1})"}
+{"id": 579, "vi": "▍**Tam Hợp của Tài Bạch · {P1} · {P2}**: {S1} ({B1})"}
+{"id": 580, "vi": "▍**Đối cung của Thiên Di · {P1} · {P2}**: {S1} ({B1})"}
 {"id": 581, "vi": "▸ **Đối chiếu lá số này**: {P1} (bản cung) 【{S1}】 là thể, đối cung 【{S2}】 là dụng | tam hợp hội 【{S3}, {S4}, {S5}】 — Tứ Hóa bản mệnh cố định không đổi, cát hung xem Đại Hạn/Lưu Niên dẫn động."}
-{"id": 582, "vi": "▍**Giao Hữu đối cung · Huynh Đệ · Huynh Đệ**: {S1} ({B1})"}
-{"id": 583, "vi": "▍**Điền Trạch tam hợp · Huynh Đệ · Huynh Đệ**: {S1} ({B1})"}
-{"id": 584, "vi": "▍**Tật Ách tam hợp · Huynh Đệ · Huynh Đệ**: {S1} ({B1})"}
+{"id": 582, "vi": "▍**Đối cung của Giao Hữu · Huynh Đệ · Huynh Đệ**: {S1} ({B1})"}
+{"id": 583, "vi": "▍**Tam Hợp của Điền Trạch · Huynh Đệ · Huynh Đệ**: {S1} ({B1})"}
+{"id": 584, "vi": "▍**Tam Hợp của Tật Ách · Huynh Đệ · Huynh Đệ**: {S1} ({B1})"}
 {"id": 585, "vi": "Thầy Nghê nói “{S1} {S2} ở Phúc Đức, đây đều là trường hợp đặc biệt đó, ở Phúc Đức, Phúc Đức mà {S3} {S4} thì làm đồ tể, người mổ thịt đó” (Nghê Hải Hạ, “Thiên Kỷ”, tập {N1}, {N2}:{N3}), rồi ông chuyển sang xem tướng mặt, lớp tướng mặt này trên lá số không xem ra được."}
 {"id": 586, "vi": "· **{S1} cũng là sao quý nhân** — Thầy Nghê trong “Thiên Kỷ” luận {S2}: “sao {S3} cũng đại diện cho quý nhân, như {S4} {S5} {S6} mấy sao này đều là sao quý nhân cả”, nên người có {S7} tọa Mệnh cả đời được nhiều quý nhân nâng đỡ, bản thân cũng có thể trở thành quý nhân của người khác."}
 {"id": 587, "vi": "· “{S1} Đẩu Số Toàn Thư · Quyển 2 · 6. Tật Ách”: “{S2} lúc còn bọc tã gặp tai ương khốn đốn, tay chân đầu mặt có thương tích, cùng Kình Đà thì một đời thường có tai họa, {S3} đồng cung thì mắc bệnh kín, {S4} đồng cung thì bệnh huyết, {S5} đồng cung {B1} thì không bệnh, đất hãm thêm Tứ Sát thì bệnh mắt, tay chân, bệnh trĩ, phong lở.”"}
@@ -243,14 +243,14 @@
 {"id": 603, "vi": "✦ **{S1}**: trong vòng bạn bè có trợ thủ đắc lực thực sự."}
 {"id": 604, "vi": "✦ **{S1}**: anh em hợp tác chắc chắn có lời, nhưng quy mô có hạn."}
 {"id": 605, "vi": "Sách cổ nói {B1} ({B2} = sao này có sức mạnh lớn) “được tổ nghiệp, ban đầu vượng, về sau bình thường”, nghĩa là sản nghiệp tổ tiên phần lớn nhận được vào tay, nhưng trước vượng sau chuyển sang bình thường, giữ gìn quan trọng hơn khai sáng;"}
-{"id": 606, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (nhận · huyết quang)】 hung chiếu phát tác (dù đồng cung với {S3} cũng không giải được, đừng tưởng nhầm là Cát Tinh giải được) (thuật ngữ mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
+{"id": 606, "vi": "· [Cách đoán của Thầy Nghê · {S1} giải ách] Sát 【{S2} (lưỡi dao · huyết quang)】 hung chiếu phát tác (dù đồng cung với {S3} cũng không giải được, đừng tưởng nhầm là Cát Tinh giải được) (thuật ngữ mặt lá số) — “Thiên Kỷ” p{N1} {N2}:{N3}:{N4}"}
 {"id": 607, "vi": "· “Toàn Thư · Quyển 2 · 7. Thiên Di”: “{S1} ra ngoài gặp quý nhân nâng đỡ, {S2} đồng cung thì lao tâm, {S3} đồng cung thì vất vả, {S4} đồng cung thì được quý nhân yêu mến, thêm Kình Đà, Hỏa Linh, Không Kiếp thì ở ngoài ít được toại chí.”"}
 {"id": 608, "vi": "Đồng cung với {S1}, {S2} thì sớm đã có trở ngại, đồng cung với {S3} thì cô đơn, hai bên dễ làm tổn thương nhau, chỉ có đồng cung với {S4} mới tránh được trở ngại này, nếu thêm {S5}, {S6}, {S7}, {S8}, {S9}, {S10} thì duyên phận với cha mẹ không trọn vẹn."}
 {"id": 609, "vi": "{S1} và {S2} cùng ở {P1}, Thầy Nghê nói “{P2} mà là hai sao này thì không có, anh em thì có nhưng con trai thì không”, chữ “không có” ở đây là không có con trai, không phải không có con;"}
-{"id": 610, "vi": "▍**{P1} tam hợp · Quan Lộc · Quan Lộc**: Quan Lộc Vô Chính Diệu"}
+{"id": 610, "vi": "▍**Tam Hợp của {P1} · Quan Lộc · Quan Lộc**: Quan Lộc Vô Chính Diệu"}
 {"id": 611, "vi": "◆ Bản cung Vô Chính Diệu, năng lượng phải mượn đối cung để luận, xu thế nhà đất, bất động sản dễ bị ngoại duyên/đối cung chi phối hơn người thường, tính tự chủ khá yếu."}
-{"id": 612, "vi": "▍**{P1} đối cung · Thiên Di · Thiên Di**: Thiên Di Vô Chính Diệu"}
-{"id": 613, "vi": "▍**{P1} tam hợp · Tài Bạch · Tài Bạch**: Tài Bạch Vô Chính Diệu"}
+{"id": 612, "vi": "▍**Đối cung của {P1} · Thiên Di · Thiên Di**: Thiên Di Vô Chính Diệu"}
+{"id": 613, "vi": "▍**Tam Hợp của {P1} · Tài Bạch · Tài Bạch**: Tài Bạch Vô Chính Diệu"}
 {"id": 614, "vi": "✦ **{S1}**: người phối ngẫu có văn tài hoặc làm trong ngành văn giáo;"}
 {"id": 615, "vi": "· **{S1} + {S2} cùng ở Tài Bạch** — “Toàn Thư” quyển 2, Tài Bạch: “{S3} đồng cung thêm Tả Hữu, Cát Tinh thì phát tài không nhỏ”, phải có các Cát Tinh như {S4}, {S5} cùng đến mới luận như vậy."}
 {"id": 616, "vi": "· **Nhật Nguyệt giáp Tài** — hai cung kề trái phải của {P1} là {S1}, {S2}, “Toàn Thư · Định Phú Cục”: “Nhật Nguyệt giáp Tài, tức là Vũ Khúc thủ Mệnh, Nhật Nguyệt đến giáp vậy, {P2} cũng thế.”"}
