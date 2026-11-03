@@ -7,7 +7,9 @@
 
 import { STAR_DB } from '@/lib/ziwei/db-analysis';
 import type { TopicKey } from '@/lib/ziwei/db-analysis';
-import { TOPIC_PALACE_NAME, TOPIC_LABEL } from '@/lib/ziwei/db-analysis';
+import { TOPIC_PALACE_NAME } from '@/lib/ziwei/db-analysis';
+import { viPalace } from '@/lib/i18n/vi';
+import { TOPIC_LABEL_VI } from '@/lib/i18n/knowledge-vi';
 
 export const ALL_STARS = [
   '紫微', '天机', '太阳', '武曲', '天同', '廉贞', '天府',
@@ -124,8 +126,8 @@ export function getKnowledge(star: string, topic: TopicKey): KnowledgeData {
   return {
     star,
     topic,
-    topicLabel: TOPIC_LABEL[topic],
-    palaceName: TOPIC_PALACE_NAME[topic],
+    topicLabel: TOPIC_LABEL_VI[topic],
+    palaceName: viPalace(TOPIC_PALACE_NAME[topic]),
     parsed: parseStarContent(content),
     exists: Boolean(content),
   };
@@ -145,18 +147,18 @@ export function getAllKnowledgeRoutes() {
 
 /** 主星属性简介（用于 SEO 页"了解 XX 星"section） */
 export const STAR_BRIEF_SEO: Record<string, string> = {
-  '紫微': '紫微为帝星，主尊贵，化气为尊。落命主有领导气场、宜大平台高位。',
-  '天机': '天机为智慧星，主善变机灵，化气为善。落命主聪明机变、宜辅佐策划。',
-  '太阳': '太阳为男贵星，主名誉公务，化气为贵。落命主光明磊落、宜公职名声。',
-  '武曲': '武曲为财星，主刚毅果决，化气为财。落命主理财能力强、宜实业金融。',
-  '天同': '天同为福星，主温和享乐，化气为福。落命主性情温和、有福气。',
-  '廉贞': '廉贞为次桃花星，文武兼备，化气为囚。落命主多才多艺、感情丰富。',
-  '天府': '天府为南帝守财星，主稳重保守，化气为令。落命主品行端正、善守财库。',
-  '太阴': '太阴为月亮富贵星，主田宅富贵，化气为富。落命主感情细腻、女命最吉。',
-  '贪狼': '贪狼为桃花欲望星，多才多社交，化气为桃花。落命主多才艺、社交广。',
-  '巨门': '巨门为是非口才星，主辩论传媒，化气为暗。落命主口才好、宜律师教师。',
-  '天相': '天相为印星辅佐，主忠厚老实，化气为印。落命主品行端正、宜行政法务。',
-  '天梁': '天梁为老人星荫星，善逢凶化吉，化气为荫。落命主慈悲善良、宜法律医学。',
-  '七杀': '七杀为将星，主孤独果决冒险，化气为肃杀。落命主刚毅果决、宜军警创业。',
-  '破军': '破军为破坏创新星，主六亲缘薄，化气为耗。落命主开创变动、宜技术专长。',
+  '紫微': 'Tử Vi là đế tinh, chủ tôn quý, hóa khí là Tôn. Nhập Mệnh chủ có khí chất lãnh đạo, nên ở nền tảng lớn, vị trí cao.',
+  '天机': 'Thiên Cơ là sao trí tuệ, chủ linh hoạt biến hóa, hóa khí là Thiện. Nhập Mệnh chủ thông minh, ứng biến nhanh, nên phò tá, hoạch định.',
+  '太阳': 'Thái Dương là nam quý tinh, chủ danh dự và công vụ, hóa khí là Quý. Nhập Mệnh chủ quang minh lỗi lạc, nên theo công chức, danh tiếng.',
+  '武曲': 'Vũ Khúc là tài tinh, chủ cương nghị quyết đoán, hóa khí là Tài. Nhập Mệnh chủ khả năng quản lý tiền bạc mạnh, nên theo thực nghiệp, tài chính.',
+  '天同': 'Thiên Đồng là phúc tinh, chủ ôn hòa, hưởng thụ, hóa khí là Phúc. Nhập Mệnh chủ tính tình ôn hòa, có phúc khí.',
+  '廉贞': 'Liêm Trinh là thứ Đào Hoa tinh, văn võ kiêm toàn, hóa khí là Tù. Nhập Mệnh chủ đa tài đa nghệ, giàu tình cảm.',
+  '天府': 'Thiên Phủ là sao Nam đế giữ của, chủ điềm đạm bảo thủ, hóa khí là Lệnh. Nhập Mệnh chủ phẩm hạnh đoan chính, giỏi giữ tài khố.',
+  '太阴': 'Thái Âm là sao phú quý của mặt trăng, chủ điền trạch phú quý, hóa khí là Phú. Nhập Mệnh chủ tình cảm tinh tế, Mệnh nữ tốt nhất.',
+  '贪狼': 'Tham Lang là sao Đào Hoa và dục vọng, đa tài, giỏi giao tiếp, hóa khí là Đào Hoa. Nhập Mệnh chủ nhiều tài nghệ, giao du rộng.',
+  '巨门': 'Cự Môn là sao thị phi và khẩu tài, chủ biện luận, truyền thông, hóa khí là Ám. Nhập Mệnh chủ ăn nói giỏi, nên làm luật sư, giáo viên.',
+  '天相': 'Thiên Tướng là ấn tinh phò tá, chủ trung hậu thật thà, hóa khí là Ấn. Nhập Mệnh chủ phẩm hạnh đoan chính, nên theo hành chính, pháp vụ.',
+  '天梁': 'Thiên Lương là lão nhân tinh, ấm tinh, giỏi gặp hung hóa cát, hóa khí là Ấm. Nhập Mệnh chủ từ bi lương thiện, nên theo pháp luật, y học.',
+  '七杀': 'Thất Sát là tướng tinh, chủ cô độc, quyết đoán, mạo hiểm, hóa khí là Túc Sát. Nhập Mệnh chủ cương nghị quyết đoán, nên theo quân đội, cảnh sát, khởi nghiệp.',
+  '破军': 'Phá Quân là sao phá hoại và đổi mới, chủ duyên lục thân mỏng, hóa khí là Hao. Nhập Mệnh chủ khai sáng, biến động, nên có chuyên môn kỹ thuật.',
 };
